@@ -10693,11 +10693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\El-Fayroz\\Fayroz-Project\\Fayroz.csproj",
+      "projectUniqueName": "C:\\El-Fayroz\\El-Fayrouz\\Fayroz.csproj",
       "projectName": "Fayroz",
-      "projectPath": "C:\\El-Fayroz\\Fayroz-Project\\Fayroz.csproj",
+      "projectPath": "C:\\El-Fayroz\\El-Fayrouz\\Fayroz.csproj",
       "packagesPath": "C:\\Users\\husse\\.nuget\\packages\\",
-      "outputPath": "C:\\El-Fayroz\\Fayroz-Project\\obj\\",
+      "outputPath": "C:\\El-Fayroz\\El-Fayrouz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"

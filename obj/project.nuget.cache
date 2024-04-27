@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K/Qi8pH4YEmCiF7Bk7aDX7elCm157ESR8JQNWKCoAcK0BYqnot/c4RPuaiwNOWYEkIjtjuO1Tl+U1SoLMLsBHQ==",
+  "dgSpecHash": "pTocEEg7pYH2mSo/ddGGfkSHbAVBRSPWgRsl5q54UOjmGkPYUT7Tky9d3j4oPvq8/1EOgZmmomF+2s4bHvymXQ==",
   "success": true,
-  "projectFilePath": "C:\\El-Fayroz\\Fayroz-Project\\Fayroz.csproj",
+  "projectFilePath": "C:\\El-Fayroz\\El-Fayrouz\\Fayroz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\husse\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\husse\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

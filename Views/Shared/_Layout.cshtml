@@ -38,7 +38,12 @@
                         <li class="nav-item">
                             <a class="nav-link text-white fw-bold">Menu</a>
                         </li>
-
+                        @if (ViewContext.HttpContext.Session.GetString("Name") != null)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-white fw-bold" asp-controller="AdminAction">Actions</a>
+                            </li>
+                        }
                     </ul>
                     <ul class="navbar-nav flex-grow-3">
                         @if (ViewContext.HttpContext.Session.GetString("Name") != null)

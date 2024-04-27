@@ -72,3 +72,6 @@ header{
     height:280px;
 }
 
+.btn {
+    text-transform:none;
+}
