@@ -1,0 +1,11 @@
+﻿<ul class="list-group-flush px-0 overflow-auto vh-100 position-sticky" id="recipe-list" style="font-size:16px;">
+    @foreach(Category category in ViewBag.Categories)
+    {
+        <a style="text-decoration:none" asp-action="Search" asp-route-recipe="@category.Name">
+        <li class="recipe-item list-group-item" >
+                @category.Name
+            </li>
+            <hr />
+        </a>
+    }
+</ul>

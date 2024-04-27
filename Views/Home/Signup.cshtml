@@ -1,0 +1,56 @@
+﻿@model User
+
+@{
+    ViewData["Title"] = "SignUp";
+}
+
+<div class="container-fluid shadow rounded mt-3">
+    <div class="row">
+        <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
+            <div>
+                <img src="~/images/36.jpg" class="w-100 h-70"/>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
+            <form action="\Home\Signup\@Model.Id" class=" form" method="post" autocomplete="off">
+                <div class="mb-3">
+                    <h2 class="fst-italic pt-3" style="color:#155e75">
+                        Register
+                    </h2>
+                    <span class="fst-italic text-muted">Create your account</span>
+                </div>
+                <div class="form-floating mb-3">
+                    <label asp-for="Name" class="form-label" style="color:#155e75;">  </label>
+                    <input asp-for="Name" class="form-control pt-5" />
+                    <span class="text-danger" asp-validation-for="Name"></span>
+                </div>
+
+                <div class="form-floating mb-3">
+                    <label asp-for="Password" class="form-label mb-6" style="color:#155e75;">  </label>
+                    <input asp-for="Password" class="form-control pt-5" />
+                    <span class="text-danger" asp-validation-for="Password"></span>
+                </div>
+
+                 <div class="form-floating mb-3">
+                    <label asp-for="RePassword" class="form-label mb-6" style="color:#155e75;"></label>
+                    <input asp-for="RePassword" class="form-control pt-5" />
+                    <span class="text-danger" asp-validation-for="RePassword"></span>
+
+                </div>
+
+                <div class="form-floating mb-3">
+                    <label asp-for="Email" class="form-label  mb-6" style="color:#155e75;"></label>
+                    <input asp-for="Email" class="form-control pt-5" />
+                    <span class="text-danger" asp-validation-for="Email"></span>
+                </div>
+                <div mb-3>
+                    <input type="submit" value="SignUp" class="btn btn-success p-2 w-100 shadow rounded" style="background-color:#155e75;" />
+                </div>
+                <br />
+                <div class="mb-3 text-danger">@ViewBag.Notification</div>
+                <br />
+            </form>
+        </div>
+    </div>
+</div>
+

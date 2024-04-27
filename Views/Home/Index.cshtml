@@ -1,0 +1,58 @@
+﻿@model List<Recipe>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <div class="row shadow rounded mt-2" style="background-color:#155e75">
+        <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 p-0">
+            <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel" style="height: 400px;">
+                <div class="carousel-inner h-100">
+                    <div class="carousel-item active">
+                        <img src="~/images/3.jpg" class="d-block w-100" alt="Recipes">
+                    </div>
+                    @foreach (Recipe item in Model)
+                    {
+                        <div class="carousel-item">
+                            <img src="~/images/@item.Image" class="d-block w-100" alt="Recipes">
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6" style="font-family: Lobster; color: #cffafe">
+            <div class="mb-3">
+                <h3>At <span style="color: #ecfeff; font-style: italic">El Fayroz</span>, ancient flavors meet modern indulgence in every delightful bite</h3>
+            </div>
+            <div class="mb-1 p-3">
+                <span><i class="fas fa-birthday-cake mx-2 fs-5" style="color: #cfffff;"></i></span>
+                <span class="fs-5 text-light fst-italic">Fresh Desserts</span>
+            </div>
+            <div class="mb-1 p-3">
+                <span><i class="fas fa-globe-americas mx-2 fs-5" style="color: #cffafe;"></i></span>
+                <span class="fs-5 text-light fst-italic">Global Treats</span>
+            </div>
+            <div class="mb-1 p-3">
+                <span><i class="fas fa-biking mx-2 fs-5" style="color: #cffafe;"></i></span>
+                <span class="fs-5 text-light fst-italic">Fastest Delivery</span>
+                <p class="py-2">We Promise Deliver Order Within 30 Min</p>
+            </div>
+        </div>
+    </div>
+    <br />
+
+
+    <div class="row" style="font-family:playfair">
+        <div class="col-12 mb-3">
+            <h2 class="fst-italic" style="color:#155e75">Today's Special</h2>
+            <div id="todayspecial" class="row">
+                @foreach (Recipe item in ViewBag.newItems)
+                {
+                    @Html.Partial("~/Views/Recipe/_RecipeCard.cshtml", item)
+                }
+            </div>
+        </div>
+    </div>
+
+</div>

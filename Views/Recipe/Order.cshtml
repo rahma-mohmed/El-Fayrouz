@@ -1,0 +1,67 @@
+﻿@model Recipe
+@{
+    ViewData["Title"] = "Order";
+}
+<style>
+    #recipe-list {
+        top: 5rem;
+    }
+
+        #recipe-list::-webkit-scrollbar {
+            width: 8px;
+        }
+
+
+        #recipe-list::-webkit-scrollbar-thumb {
+            background-color: #369AEB;
+            border-radius: 10px;
+        }
+
+    .recipe-item {
+        padding: 15px;
+    }
+
+        .recipe-item:hover {
+            background-color: #369AEB;
+            border-radius: 10px;
+        }
+
+            .recipe-item:hover a {
+                color: white !important;
+            }
+
+    hr {
+        padding: 0px;
+        margin: 0px;
+    }
+
+</style>
+
+
+<div class="container-fluid">
+    <div class="row mb-4">
+        <div class="col-12">
+            @Html.Partial("_SearchBar")
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-4">
+            <div class="shadow rounded">
+                <div class="border-bottom border-3 p-2">
+                    <h4 class="text-center fst-italic" style="color:#155e75">Recipes</h4>
+                    @Html.Partial("_SideMenu")
+                </div>
+            </div>
+        </div>
+
+        <div class="col-8">
+            <div class="mb-3">
+                <div class="row" id="recipeDetails">
+                    @Html.Partial("_showOrder", Model);
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

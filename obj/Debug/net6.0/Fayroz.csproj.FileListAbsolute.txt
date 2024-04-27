@@ -1,0 +1,750 @@
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\appsettings.Development.json
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\appsettings.json
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Fayroz.staticwebassets.runtime.json
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Fayroz.exe
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Fayroz.deps.json
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Fayroz.runtimeconfig.json
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Fayroz.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Fayroz.pdb
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\Fayroz.GeneratedMSBuildEditorConfig.editorconfig
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\Fayroz.AssemblyInfoInputs.cache
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\Fayroz.AssemblyInfo.cs
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\Fayroz.csproj.CoreCompileInputs.cache
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\Fayroz.MvcApplicationPartsAssemblyInfo.cache
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\Fayroz.RazorAssemblyInfo.cache
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\Fayroz.RazorAssemblyInfo.cs
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\Fayroz.sourcelink.json
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\staticwebassets.build.json
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\staticwebassets.development.json
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\staticwebassets\msbuild.Fayroz.Microsoft.AspNetCore.StaticWebAssets.props
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\staticwebassets\msbuild.build.Fayroz.props
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Fayroz.props
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Fayroz.props
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\staticwebassets.pack.json
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\scopedcss\bundle\Fayroz.styles.css
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\scopedcss\projectbundle\Fayroz.bundle.scp.css
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\Fayroz.dll
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\refint\Fayroz.dll
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\Fayroz.pdb
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\Fayroz.genruntimeconfig.cache
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\ref\Fayroz.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Humanizer.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\Fayroz.csproj.AssemblyReference.cache
+D:\just try c#\MVC\Fayroz\obj\Debug\net6.0\Fayroz.csproj.Up2Date
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\MessagePack.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.Build.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\NuGet.Common.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\just try c#\MVC\Fayroz\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\appsettings.Development.json
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\appsettings.json
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Fayroz.staticwebassets.runtime.json
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Fayroz.exe
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Fayroz.deps.json
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Fayroz.runtimeconfig.json
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Fayroz.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Fayroz.pdb
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Humanizer.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\MessagePack.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.Build.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\NuGet.Common.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\El-Fayroz\Fayroz-Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\Fayroz.csproj.AssemblyReference.cache
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\Fayroz.GeneratedMSBuildEditorConfig.editorconfig
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\Fayroz.AssemblyInfoInputs.cache
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\Fayroz.AssemblyInfo.cs
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\Fayroz.csproj.CoreCompileInputs.cache
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\Fayroz.MvcApplicationPartsAssemblyInfo.cache
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\Fayroz.RazorAssemblyInfo.cache
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\Fayroz.RazorAssemblyInfo.cs
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\Fayroz.sourcelink.json
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\staticwebassets\msbuild.Fayroz.Microsoft.AspNetCore.StaticWebAssets.props
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Fayroz.props
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Fayroz.props
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Fayroz.props
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\scopedcss\bundle\Fayroz.styles.css
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\scopedcss\projectbundle\Fayroz.bundle.scp.css
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\Fayroz.csproj.Up2Date
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\Fayroz.dll
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\refint\Fayroz.dll
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\Fayroz.pdb
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\Fayroz.genruntimeconfig.cache
+C:\El-Fayroz\Fayroz-Project\obj\Debug\net6.0\ref\Fayroz.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\appsettings.json
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Fayroz.staticwebassets.runtime.json
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Fayroz.exe
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Fayroz.deps.json
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Fayroz.runtimeconfig.json
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Fayroz.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Fayroz.pdb
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Humanizer.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\MessagePack.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\Fayroz.csproj.AssemblyReference.cache
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\Fayroz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\Fayroz.AssemblyInfoInputs.cache
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\Fayroz.AssemblyInfo.cs
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\Fayroz.csproj.CoreCompileInputs.cache
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\Fayroz.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\Fayroz.RazorAssemblyInfo.cache
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\Fayroz.RazorAssemblyInfo.cs
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\Fayroz.sourcelink.json
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\staticwebassets\msbuild.Fayroz.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\staticwebassets\msbuild.build.Fayroz.props
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Fayroz.props
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Fayroz.props
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\scopedcss\bundle\Fayroz.styles.css
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\scopedcss\projectbundle\Fayroz.bundle.scp.css
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\Fayroz.csproj.Up2Date
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\Fayroz.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\refint\Fayroz.dll
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\Fayroz.pdb
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\Fayroz.genruntimeconfig.cache
+C:\Users\3ML4Ever\Desktop\Fayroz\obj\Debug\net6.0\ref\Fayroz.dll

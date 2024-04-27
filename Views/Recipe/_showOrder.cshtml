@@ -1,0 +1,63 @@
+﻿
+<div class="container-fluid shadow rounded">
+    <div class="row">
+        <div class="col-12">
+            <img src="~/images/@Model.Image" class="h-100" id="order-img" />
+        </div>
+    </div>
+    <br />
+    <div class="row mt-2">
+        <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
+            <h2 class="text-dark">@Model.Name</h2>
+        </div>
+        <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
+            <button type="button" class="btn btn-sm btn-success p-2 text-end">Order</button>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12">
+            <div class="table-responsive p-2">
+                <table class="table table-bordered">
+                    <thead>
+                            <th>Description</th>
+                    </thead>
+
+                    <tbody>
+                        <td>@Model.Description</td>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
+            <div class="p-2">
+                <h2 class="text-dark">Bill Details</h2>
+
+                <div class="row border-bottom border-2 border-dark">
+                    <label class="col-10 col-form-label">Price</label>
+                    <div class="col-2">
+                        <span>500</span>
+                    </div>
+                </div>
+
+                <div class="row border-bottom border-2 border-dark">
+                    <label class="col-6 col-form-label">Quantity</label>
+                    <div class="col-4 text-end">
+                        <span><i class="fas fa-plus "></i></span>
+                        <input type="text" class="form-control d-inline w-50"/>
+                        <span><i class="fas fa-minus"></i></span>
+                        
+                    </div>
+                </div>
+                <div class="row border-bottom border-2 border-dark">
+                    <label class="col-10 col-form-label">Delivery Charge</label>
+                    <label class="col-2 col-form-label text-success fw-bold">Free</label>
+                </div>
+                <div class="row">
+                    <label class="col-10 col-form-label fs-5 fw-bold">Total</label>
+                    <label class="col-2 col-form-label text-success fw-bold">500</label>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

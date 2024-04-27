@@ -1,0 +1,49 @@
+﻿@model User
+
+@{
+    ViewData["Title"] = "LogIn";
+
+   }
+<div class="container-fluid shadow rounded mt-3">
+    <div class="row hadow rounded">
+        <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
+            <div>
+                <img src="~/Images/37.jpg" class="w-100"/>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
+            <form action="\Home\Login\@Model.Id" class="form-check p-3 m-3" method="post" autocomplete="off">
+                 <div class="mb-3">
+                        <h2 class="fst-italic pt-3"style="color:#155e75;"> logIn</h2>
+                        <span class="fst-italic text-muted">Login into your account </span>
+                 </div>
+
+                <div class="form-floating mb-3">
+                    <label asp-for="Name" class="form-label" style="color:#155e75;">  </label>
+                    <input asp-for="Name" class="form-control pt-5"/>
+                    <span class="text-danger" asp-validation-for="Name"></span>
+                </div>
+
+                <div class="form-floating mb-3">
+                    <label asp-for="Password" class="form-label mb-6" style="color:#155e75;">  </label>
+                    <input asp-for="Password" class="form-control pt-5" />
+                    <span class="text-danger" asp-validation-for="Password"></span>
+                </div>
+
+                <div class="mb-3"> 
+                    <span>Dont't have an account?</span>
+                    <a class="text-dark fw-bold text-decoration-none" asp-area="" asp-controller="Home" asp-action="Signup">register here</a>
+                </div>
+
+                <div class="mb-3 text-danger">@ViewBag.Notification</div>
+
+                <div mb-3>
+                    <input type="submit" value="LogIn" class="btn btn-success p-2 w-100 shadow rounded" style="background-color:#155e75;" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.js"></script>
