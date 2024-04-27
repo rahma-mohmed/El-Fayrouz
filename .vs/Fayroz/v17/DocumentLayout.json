@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\El-Fayroz\\El-Fayrouz\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\el-fayroz\\el-fayrouz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\el-fayroz\\el-fayrouz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\el-fayroz\\el-fayrouz\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\el-fayroz\\el-fayrouz\\views\\adminaction\\_recipecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:views\\adminaction\\_recipecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\el-fayroz\\el-fayrouz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\El-Fayroz\\El-Fayrouz\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\El-Fayroz\\El-Fayrouz\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T16:09:38.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "site.css",
               "DocumentMoniker": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -47,20 +64,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\El-Fayroz\\El-Fayrouz\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\El-Fayroz\\El-Fayrouz\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAABVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-27T14:38:06.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "_RecipeCard.cshtml",
               "DocumentMoniker": "C:\\El-Fayroz\\El-Fayrouz\\Views\\AdminAction\\_RecipeCard.cshtml",
               "RelativeDocumentMoniker": "Views\\AdminAction\\_RecipeCard.cshtml",
@@ -68,12 +85,11 @@
               "RelativeToolTip": "Views\\AdminAction\\_RecipeCard.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-27T14:36:11.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T14:36:11.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\El-Fayroz\\El-Fayrouz\\Views\\AdminAction\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\AdminAction\\Index.cshtml",
@@ -81,12 +97,11 @@
               "RelativeToolTip": "Views\\AdminAction\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-27T14:34:12.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T14:34:12.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AdminActionController.cs",
               "DocumentMoniker": "C:\\El-Fayroz\\El-Fayrouz\\Controllers\\AdminActionController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminActionController.cs",
@@ -94,8 +109,7 @@
               "RelativeToolTip": "Controllers\\AdminActionController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T14:23:13.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T14:23:13.944Z"
             }
           ]
         }
