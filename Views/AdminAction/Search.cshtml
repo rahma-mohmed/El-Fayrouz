@@ -56,6 +56,9 @@
         </div>
 
         <div class="col-8">
+            <a asp-action="Add" class="btn btn-success btn-lg m-4">
+                New item
+            </a>
             <h2 style="color:#155e75;">Search Recipes</h2>
             <div id="searchRecipes" class="row">
                 @foreach (var recipe in (IEnumerable<Recipe>) ViewBag.Recipe)

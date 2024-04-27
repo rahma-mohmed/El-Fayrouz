@@ -1,6 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Data.SqlTypes;
 
 namespace Fayroz.Models
 {
@@ -16,21 +15,23 @@ namespace Fayroz.Models
         [StringLength(500)]
         public string Description { get; set; } = "";
 
-        [Required]
         [NotMapped]
+        [Required]
         public IFormFile ImageFile { get; set; } = default!;
         public string? Image { get; set; }
 
         public DateTime DateTime { get; set; }
 
-        public Category Category { get; set; }
+        [ForeignKey("Category")]
         public int CategoryId { get; set; }
+        public Category Category { get; set; }
 
+        [Display(Name = "Is Special item?")]
         public bool isSpecial { get; set; } = false;
 
         public Recipe()
         {
             DateTime = DateTime.Now;
-        }        
+        }
     }
 }

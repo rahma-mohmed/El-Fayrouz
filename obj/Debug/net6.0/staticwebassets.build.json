@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2SrVZnpS51rpg83cuOhX7Ldqyc0+65l592bElRYyPL0=",
+  "Hash": "HThGvRKo6kiihakasZNHmrJRiU1cc683+CIkRx6G9Xo=",
   "Source": "Fayroz",
   "BasePath": "_content/Fayroz",
   "Mode": "Default",
@@ -870,6 +870,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\jquery-ui.min.js"
+    },
+    {
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\js\\recipe-form.js",
+      "SourceId": "Fayroz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
+      "BasePath": "_content/Fayroz",
+      "RelativePath": "js/recipe-form.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\recipe-form.js"
     },
     {
       "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\js\\site.js",

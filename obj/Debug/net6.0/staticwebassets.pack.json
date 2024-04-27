@@ -177,6 +177,10 @@
       "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
     },
     {
+      "Id": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\js\\recipe-form.js",
+      "PackagePath": "staticwebassets\\js\\recipe-form.js"
+    },
+    {
       "Id": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
