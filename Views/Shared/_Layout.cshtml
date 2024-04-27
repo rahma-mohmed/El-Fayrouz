@@ -29,19 +29,19 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-white fw-bold" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link fw-bold fs-6" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-white fw-bold" asp-controller="Recipe" asp-action="Index">Recipes</a>
+                            <a class="nav-link fw-bold fs-6" asp-controller="Recipe" asp-action="Index">Recipes</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link text-white fw-bold">Menu</a>
+                            <a class="nav-link fw-bold fs-6" asp-controller="">Menu</a>
                         </li>
                         @if (ViewContext.HttpContext.Session.GetString("Name") != null)
                         {
                             <li class="nav-item">
-                                <a class="nav-link text-white fw-bold" asp-controller="AdminAction">Actions</a>
+                                <a class="nav-link fw-bold fs-6" asp-controller="AdminAction">Actions</a>
                             </li>
                         }
                     </ul>
@@ -49,20 +49,20 @@
                         @if (ViewContext.HttpContext.Session.GetString("Name") != null)
                         {
                             <li class="nav-item">
-                                <a class="nav-link fw-bold" asp-area="" asp-controller="Home" asp-action="Index">Hello, @ViewContext.HttpContext.Session.GetString("Name")</a>
+                                <a class="nav-link fw-bold fs-6" asp-area="" asp-controller="Home" asp-action="Index">Hello, @ViewContext.HttpContext.Session.GetString("Name")</a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link fw-bold" asp-area="" asp-controller="Home" asp-action="Logout">Logout</a>
+                                <a class="nav-link fw-bold fs-6" asp-area="" asp-controller="Home" asp-action="Logout">Logout</a>
                             </li>
                         }
                         else
                         {
                             <li class="nav-item">
-                                <a class="nav-link fw-bold" asp-area="" asp-controller="Home" asp-action="Signup">SignUp</a>
+                                <a class="nav-link fw-bold fs-6" asp-area="" asp-controller="Home" asp-action="Signup">SignUp</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link fw-bold" asp-area="" asp-controller="Home" asp-action="Login">Login</a>
+                                <a class="nav-link fw-bold fs-6" asp-area="" asp-controller="Home" asp-action="Login">Login</a>
                             </li>
                         }
                     </ul>
