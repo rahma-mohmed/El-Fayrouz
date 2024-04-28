@@ -42,8 +42,7 @@
               "RelativeToolTip": "Views\\AdminAction\\Add.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-28T14:33:02.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T14:33:02.551Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "wwwroot\\js\\recipe-form.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-28T13:37:16.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T13:37:16.273Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "Models\\Recipe.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAD4vxYAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T13:10:09.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T13:10:09.965Z"
             },
             {
               "$type": "Document",
@@ -81,8 +78,7 @@
               "RelativeToolTip": "Views\\AdminAction\\Edit.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAABQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-28T13:08:15.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T13:08:15.681Z"
             },
             {
               "$type": "Document",
@@ -92,7 +88,7 @@
               "RelativeDocumentMoniker": "Controllers\\AdminActionController.cs",
               "ToolTip": "C:\\El-Fayroz\\El-Fayrouz\\Controllers\\AdminActionController.cs",
               "RelativeToolTip": "Controllers\\AdminActionController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAYwH8AAAAFAAAA",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAiwHgAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T13:02:07.744Z",
               "EditorCaption": ""

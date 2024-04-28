@@ -1,6 +1,7 @@
 ﻿using Fayroz.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.AspNetCore.StaticFiles;
 using Microsoft.EntityFrameworkCore;
 
 namespace Fayroz.Controllers
@@ -109,21 +110,36 @@ namespace Fayroz.Controllers
         #endregion
 
         #region Delete
-        public IActionResult Delete (int id)
+        public IActionResult Delete(int id)
         {
-
             Recipe recipe = _dbContext.Recipes.Find(id);
+            if (recipe == null)
+            {
+                return NotFound();
+            }
             _dbContext.Recipes.Remove(recipe);
-            _dbContext.SaveChanges();
+            var effectedRows = _dbContext.SaveChanges();
+            if (effectedRows > 0)
+            {
+                var imagePath = Path.Combine(_webHostEnvironment.WebRootPath, "images", recipe.Image);
+                if (System.IO.File.Exists(imagePath))
+                {
+                    System.IO.File.Delete(imagePath);
+                }
+            }
+
             var recipesByCategory = _dbContext.Recipes
                 .Include(r => r.Category)
                 .AsEnumerable()
                 .GroupBy(r => r.Category)
                 .ToList();
-            List<Category> Categories = _dbContext.Categories.ToList();
-            ViewBag.Categories = Categories;
-            return View("Index",recipesByCategory);
+
+            List<Category> categories = _dbContext.Categories.ToList();
+            ViewBag.Categories = categories;
+
+            return View("Index", recipesByCategory);
         }
+
         #endregion
     }
 }
