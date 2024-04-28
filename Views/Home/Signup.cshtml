@@ -19,6 +19,7 @@
                     </h2>
                     <span class="fst-italic text-muted">Create your account</span>
                 </div>
+
                 <div class="form-floating mb-3">
                     <label asp-for="Name" class="form-label" style="color:#155e75;">  </label>
                     <input asp-for="Name" class="form-control pt-5" />
@@ -35,7 +36,6 @@
                     <label asp-for="RePassword" class="form-label mb-6" style="color:#155e75;"></label>
                     <input asp-for="RePassword" class="form-control pt-5" />
                     <span class="text-danger" asp-validation-for="RePassword"></span>
-
                 </div>
 
                 <div class="form-floating mb-3">
@@ -43,10 +43,12 @@
                     <input asp-for="Email" class="form-control pt-5" />
                     <span class="text-danger" asp-validation-for="Email"></span>
                 </div>
+
                 <div mb-3>
                     <input type="submit" value="SignUp" class="btn btn-success p-2 w-100 shadow rounded" style="background-color:#155e75;" />
                 </div>
                 <br />
+
                 <div class="mb-3 text-danger">@ViewBag.Notification</div>
                 <br />
             </form>

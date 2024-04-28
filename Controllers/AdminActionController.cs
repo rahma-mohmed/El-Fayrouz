@@ -51,7 +51,7 @@ namespace Fayroz.Controllers
                 .Select(c => new SelectListItem { Value = c.Id.ToString(), Text = c.Name })
                 .AsNoTracking()
                 .ToList();
-            ViewBag .Categories = categories;
+            ViewBag.Categories = categories;
             return View(recipe);
         }
         [HttpPost]

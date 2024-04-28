@@ -12,57 +12,63 @@
     <link rel="stylesheet" href="~/Fayroz.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link href="~/css/jquery-ui.min.css" rel="stylesheet" />
-
 </head>
+
 <body>
     <header class="position-sticky top-0">
+
         <nav class="navbar navbar-expand-lg bg-primary" style="font-family:Lobster;" data-bs-theme="dark">
+
             <div class="container-fluid">
-                <a class="navbar-brand fw-bold text-white " asp-area="" asp-controller="Home" asp-action="Index">
+
+                <a class="navbar-brand fw-bold text-white fs-5 " asp-area="" asp-controller="Home" asp-action="Index">
                      <img src="~/images/logo.jpg" /> 
                     El-Fayroz
                 </a>
+
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
+                        <span class="navbar-toggler-icon"></span>
                 </button>
+
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link fw-bold fs-6" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link  fs-5" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link fw-bold fs-6" asp-controller="Recipe" asp-action="Index">Recipes</a>
+                            <a class="nav-link  fs-5" asp-controller="Recipe" asp-action="Index">Recipes</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link  fs-5" asp-controller="">Menu</a>
                         </li>
 
-                        <li class="nav-item">
-                            <a class="nav-link fw-bold fs-6" asp-controller="">Menu</a>
-                        </li>
                         @if (ViewContext.HttpContext.Session.GetString("Name") != null)
                         {
                             <li class="nav-item">
-                                <a class="nav-link fw-bold fs-6" asp-controller="AdminAction">Actions</a>
+                                <a class="nav-link fs-5" asp-controller="AdminAction">Actions</a>
                             </li>
                         }
                     </ul>
+
                     <ul class="navbar-nav flex-grow-3">
                         @if (ViewContext.HttpContext.Session.GetString("Name") != null)
                         {
                             <li class="nav-item">
-                                <a class="nav-link fw-bold fs-6" asp-area="" asp-controller="Home" asp-action="Index">Hello, @ViewContext.HttpContext.Session.GetString("Name")</a>
+                                <a class="nav-link  fs-5" asp-area="" asp-controller="Home" asp-action="Index">Hello, @ViewContext.HttpContext.Session.GetString("Name")</a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link fw-bold fs-6" asp-area="" asp-controller="Home" asp-action="Logout">Logout</a>
+                                <a class="nav-link  fs-5" asp-area="" asp-controller="Home" asp-action="Logout">Logout</a>
                             </li>
                         }
                         else
                         {
                             <li class="nav-item">
-                                <a class="nav-link fw-bold fs-6" asp-area="" asp-controller="Home" asp-action="Signup">SignUp</a>
+                                <a class="nav-link  fs-5" asp-area="" asp-controller="Home" asp-action="Signup">SignUp</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link fw-bold fs-6" asp-area="" asp-controller="Home" asp-action="Login">Login</a>
+                                <a class="nav-link  fs-5" asp-area="" asp-controller="Home" asp-action="Login">Login</a>
                             </li>
                         }
                     </ul>
@@ -70,6 +76,7 @@
             </div>
         </nav>
     </header>
+
     <div class="container-fluid">
         <main role="main" class="pb-3">
             @RenderBody()
@@ -117,10 +124,12 @@
             </div>
         </div>
     </footer>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     <script src="~/js/jquery-ui.min.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
+
 </body>
 </html>

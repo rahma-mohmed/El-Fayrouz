@@ -1,4 +1,13 @@
 ﻿@model Recipe
+<style>
+.card{
+    transition: 0.2s ease;
+}
+.card:hover{
+    transform: scale(1.04);
+}
+</style>
+
 <div class="col-sm-4 col-md-4 col-lg-4 col-xl-4">
     <div class="card dishcard shadow  border-light mb-3 text-decoration-none rounded-3 overflow-hidden" style="height:450px">
         <div class="card-body" style="background-image: url('/images/@Model.Image'); background-size: cover; background-position: center;"></div>

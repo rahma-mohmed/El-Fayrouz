@@ -1,18 +1,17 @@
 
 @media (min-width: 768px) {
-  html {
-    font-size: 20px;
-    min-height:100%;
-  }
+    html {
+        font-size: 20px;
+        min-height: 100%;
+    }
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-
 }
 
 .lobster-two-bold-italic {
@@ -27,51 +26,63 @@ body {
     font-style: normal;
 }
 
-.playfair-display{
+.playfair-display {
     font-family: "Playfair Display", serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
 }
 
-.text-white{
-    color:#ffffff;
+.text-white {
+    color: #ffffff;
 }
 
-#carouselExampleSlidesOnly{
-    height:400px;
+#carouselExampleSlidesOnly {
+    height: 400px;
 }
 
 .navbar {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
-
 }
 
 .navbar-brand img {
-    width: 40px; 
+    width: 40px;
     height: 40px;
 }
 
 .navbar-nav .nav-link {
-    font-size: 0.9rem;
+    font-size: 1.0rem;
+    color: #e0f2fe;
     padding-top: 0.25rem;
     padding-bottom: 0.25rem;
 }
 
+.navbar-nav li a::after{
+        content: '';
+        width: 0;
+        height:2px;
+        background: White;
+        display:block;
+        transition:0.2s linear;
+}
+
+.navbar-nav li a:hover::after {
+    width: 100%;
+}
+
 footer {
-    background-color: #369AEB;
-
+   background-color: #369AEB;
 }
 
-header{
-    z-index:1000;
+header {
+    z-index: 1000;
 }
 
-.dishcard{
-    height:280px;
+.dishcard {
+    height: 280px;
 }
 
-.btn {
-    text-transform:none;
+#order-img {
+    height: 100px;
 }
