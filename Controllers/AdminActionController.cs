@@ -26,9 +26,6 @@ namespace Fayroz.Controllers
                 .ToList();
             List<Category> Categories = _dbContext.Categories.ToList();
             ViewBag.Categories = Categories;
-
-            var AllRecipes = _dbContext.Recipes.ToArray();
-            ViewBag.AllRecipes = AllRecipes;
             return View(recipesByCategory);
         }
 
@@ -89,9 +86,43 @@ namespace Fayroz.Controllers
         #endregion
 
         #region Update
-        public IActionResult Edit()
+        public IActionResult Edit(int id)
         {
-            return View();
+            Recipe recipe = _dbContext.Recipes.FirstOrDefault(r => r.Id == id);
+            if (recipe == null)
+            {
+                return NotFound();
+            }
+            List<SelectListItem> categories = _dbContext.Categories
+                .OrderBy(r => r.Name)
+                .Select(c => new SelectListItem { Value = c.Id.ToString(), Text = c.Name })
+                .AsNoTracking()
+                .ToList();
+            ViewBag.Categories = categories;
+            return View(recipe);
+        }
+
+        /*public IActionResult Edit(Recipe recipe , IFormFile i)
+        {
+
+        }*/
+        #endregion
+
+        #region Delete
+        public IActionResult Delete (int id)
+        {
+
+            Recipe recipe = _dbContext.Recipes.Find(id);
+            _dbContext.Recipes.Remove(recipe);
+            _dbContext.SaveChanges();
+            var recipesByCategory = _dbContext.Recipes
+                .Include(r => r.Category)
+                .AsEnumerable()
+                .GroupBy(r => r.Category)
+                .ToList();
+            List<Category> Categories = _dbContext.Categories.ToList();
+            ViewBag.Categories = Categories;
+            return View("Index",recipesByCategory);
         }
         #endregion
     }

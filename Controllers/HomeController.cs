@@ -19,10 +19,11 @@ namespace Fayroz.Controllers
         public IActionResult Index()
         {
             List<Recipe> SpecialItems = _dbContext.Recipes.Where(r => r.isSpecial).ToList();
-
             List<Recipe> newItems = _dbContext.Recipes
                 .Where(r => r.DateTime.AddDays(3) >= DateTime.Now)
-                .Take(3).ToList();
+                .OrderBy(r => r.Name)
+                .Take(6)
+                .ToList();
 
             ViewBag.NewItems = newItems;
 

@@ -86,3 +86,7 @@ header {
 #order-img {
     height: 100px;
 }
+
+.btn {
+    text-transform: none;
+}
