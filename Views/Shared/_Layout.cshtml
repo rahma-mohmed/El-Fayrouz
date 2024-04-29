@@ -42,11 +42,15 @@
                         <li class="nav-item">
                             <a class="nav-link fs-5" asp-controller="Menu" asp-action="Index">Menu</a>
                         </li>
+                        
+                        <li class="nav-item">
+                            <a class="nav-link fs-5" asp-controller="" asp-action="">About us</a>
+                        </li>
 
                         @if (ViewContext.HttpContext.Session.GetString("Name") != null)
                         {
                             <li class="nav-item">
-                                <a class="nav-link fs-5" asp-controller="AdminAction">Actions</a>
+                                <a class="nav-link fs-5" asp-controller="AdminAction" asp-action="Index">Actions</a>
                             </li>
                         }
                     </ul>

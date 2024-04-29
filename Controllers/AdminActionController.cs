@@ -103,7 +103,7 @@ namespace Fayroz.Controllers
             return View(recipe);
         }
 
-        /*public IActionResult Edit(Recipe recipe , IFormFile i)
+        /*public IActionResult Edit(Recipe recipe, IFormFile im)
         {
 
         }*/
