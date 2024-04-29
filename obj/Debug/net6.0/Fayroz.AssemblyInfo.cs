@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fayroz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3833f6a3801b3ba0bfb9eb3c23a48ba08a830496")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d63a93ae427e022d750db2b6c2084bc0edfa93ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fayroz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fayroz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

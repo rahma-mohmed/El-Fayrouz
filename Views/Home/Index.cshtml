@@ -3,6 +3,36 @@
     ViewData["Title"] = "Home Page";
 }
 
+<style>
+    .custom-container {
+        max-width: 1140px;
+        margin: auto;
+        padding: 20px;
+    }
+
+    .section-title {
+        font-family: Arial, sans-serif;
+        color: #007bff;
+        font-weight: normal;
+    }
+
+    .testimonial-quote {
+        color: #007bff;
+        margin-bottom: 12px;
+    }
+
+    .testimonial-img {
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+    }
+
+    .testimonial-info {
+        padding-left: 12px;
+        padding-top: 10px;
+    }
+</style>
+
 <div class="container">
     <div class="row shadow rounded mt-1" style="background-color:#155e75">
         <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
@@ -46,7 +76,9 @@
 
     <div class="row" style="font-family:playfair">
         <div class="col-12 mb-3">
-            <h2 class="fst-italic" style="color:#155e75">Today's Special</h2>
+            <div class="text-center">
+                <h1 class="mb-5 mt-5" style="color:#155e75">Today's Special</h1>
+            </div>
             <div id="todayspecial" class="row">
                 @foreach (Recipe item in ViewBag.newItems)
                 {
@@ -55,5 +87,126 @@
             </div>
         </div>
     </div>
+</div>
 
+
+<div class="container-xxl pt-5 pb-3" style="font-family:playfair">
+    <div class="container">
+        <div class="text-center">
+            <h5 class="section-title ff-secondary text-center text-primary fw-normal">Team Members</h5>
+            <h1 class="mb-5" style="color:#155e75">Our Master Chefs</h1>
+        </div>
+        <div class="row g-4">
+            <div class="col-lg-3 col-md-6">
+                <div class="team-item text-center rounded overflow-hidden">
+                    <div class="rounded-circle overflow-hidden m-4">
+                        <img class="img-fluid" src="~/images/m3.jpg" alt="">
+                    </div>
+                    <h5 class="mb-0">Full Name</h5>
+                    <small>Designation</small>
+                    <div class="d-flex justify-content-center mt-3">
+                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="team-item text-center rounded overflow-hidden">
+                    <div class="rounded-circle overflow-hidden m-4">
+                        <img class="img-fluid" src="~/images/m1.jpg" alt="">
+                    </div>
+                    <h5 class="mb-0">Full Name</h5>
+                    <small>Designation</small>
+                    <div class="d-flex justify-content-center mt-3">
+                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="team-item text-center rounded overflow-hidden">
+                    <div class="rounded-circle overflow-hidden m-4">
+                        <img class="img-fluid" src="~/images/m2.jpg" alt="">
+                    </div>
+                    <h5 class="mb-0">Full Name</h5>
+                    <small>Designation</small>
+                    <div class="d-flex justify-content-center mt-3">
+                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="team-item text-center rounded overflow-hidden">
+                    <div class="rounded-circle overflow-hidden m-4">
+                        <img class="img-fluid" src="~/images/m4.jpg" alt="">
+                    </div>
+                    <h5 class="mb-0">Full Name</h5>
+                    <small>Designation</small>
+                    <div class="d-flex justify-content-center mt-3">
+                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="container-xxl pt-5 pb-3" style="font-family:playfair">
+        <div class="text-center">
+            <h5 class="section-title ff-secondary text-center text-primary fw-normal">Testimonial</h5>
+        <h1 class="mb-5" style="color:#155e75">Our Clients Say!!!</h1>
+        </div>
+    <div id="carouselControls" class="carousel slide py-5" data-bs-ride="carousel" style="color:#155e75;">
+        <div class="carousel-inner" style="padding-left:120px;">
+            <div class="carousel-item active">
+                <i class="fas fa-quote-left fa-2x testimonial-quote"></i>
+                <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                <div class=" align-items-center">
+                    <img src="~/images/m6.jpg" class="testimonial-img">
+                    <div class="testimonial-info">
+                        <h5>Client Name</h5>
+                        <small>Profession</small>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <i class="fas fa-quote-left fa-2x testimonial-quote"></i>
+                <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                <div class="align-items-center">
+                    <img src="~/images/m5.jpg" class="testimonial-img">
+                     <div class="testimonial-info">
+                        <h5>Client Name</h5>
+                        <small>Profession</small>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <i class="fas fa-quote-left fa-2x testimonial-quote"></i>
+                <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                <div class="align-items-center">
+                    <img src="~/images/m7.jpg" class="testimonial-img">
+                    <div class="testimonial-info">
+                        <h5>Client Name</h5>
+                        <small>Profession</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselControls" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselControls" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
 </div>
