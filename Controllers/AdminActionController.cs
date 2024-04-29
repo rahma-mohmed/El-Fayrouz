@@ -102,11 +102,49 @@ namespace Fayroz.Controllers
             ViewBag.Categories = categories;
             return View(recipe);
         }
-
-        /*public IActionResult Edit(Recipe recipe, IFormFile im)
+        [HttpPost]
+        public IActionResult Edit(Recipe recipe, IFormFile imageFile)
         {
+            ModelState.Remove("Category");
+            if (ModelState.IsValid)
+            {
+                var existingRecipe = _dbContext.Recipes.Find(recipe.Id);
+                if (existingRecipe == null)
+                {
+                    return NotFound();
+                }
+                if (imageFile != null)
+                {
+                    var oldImagePath = Path.Combine(_webHostEnvironment.WebRootPath, "images", existingRecipe.Image);
+                    if (System.IO.File.Exists(oldImagePath))
+                    {
+                        System.IO.File.Delete(oldImagePath);
+                    }
+                    string wwwRootPath = _webHostEnvironment.WebRootPath;
+                    string fileName = $"{recipe.Id}{Path.GetExtension(imageFile.FileName)}";
+                    string filePath = Path.Combine(wwwRootPath, "images", fileName);
+                    using (var fileStream = new FileStream(filePath, FileMode.Create))
+                    {
+                        imageFile.CopyTo(fileStream);
+                    }
 
-        }*/
+                    recipe.Image = fileName;
+                }
+                existingRecipe.Name = recipe.Name;
+                existingRecipe.Description = recipe.Description;
+                existingRecipe.CategoryId = recipe.CategoryId;
+                _dbContext.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            List<SelectListItem> categories = _dbContext.Categories
+                .OrderBy(r => r.Name)
+                .Select(c => new SelectListItem { Value = c.Id.ToString(), Text = c.Name })
+                .AsNoTracking()
+                .ToList();
+            ViewBag.Categories = categories;
+            return View(recipe);
+        }
+
         #endregion
 
         #region Delete
