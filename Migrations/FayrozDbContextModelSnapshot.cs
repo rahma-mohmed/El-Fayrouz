@@ -118,6 +118,10 @@ namespace Fayroz.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
+                    b.Property<decimal?>("Price")
+                        .IsRequired()
+                        .HasColumnType("decimal(18,2)");
+
                     b.Property<bool>("isSpecial")
                         .HasColumnType("bit");
 

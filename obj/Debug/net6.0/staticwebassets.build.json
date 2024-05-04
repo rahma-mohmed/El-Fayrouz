@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dy1Je6h+59JNkl/IVoLH5lhu81BlPW8jCVVqk7rpels=",
+  "Hash": "c2BxeYCFNzIqKM5LX9Jlji77kVabln2BvPz9LzniQ80=",
   "Source": "Fayroz",
   "BasePath": "_content/Fayroz",
   "Mode": "Default",
@@ -186,25 +186,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\13.jpg"
-    },
-    {
-      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\14.jpg",
-      "SourceId": "Fayroz",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
-      "BasePath": "_content/Fayroz",
-      "RelativePath": "images/14.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\14.jpg"
     },
     {
       "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\15.jpg",

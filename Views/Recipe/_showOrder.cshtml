@@ -9,9 +9,6 @@
         <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
             <h2 class="text-dark">@Model.Name</h2>
         </div>
-        <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
-            <button type="button" class="btn btn-sm btn-success p-2 text-end">Order</button>
-        </div>
     </div>
 
     <div class="row">
@@ -33,28 +30,31 @@
                 <h2 class="text-dark">Bill Details</h2>
 
                 <div class="row border-bottom border-2 border-dark">
-                    <label class="col-10 col-form-label">Price</label>
+                    <label class="col-10 col-form-label text-muted">Price</label>
                     <div class="col-2">
-                        <span>500</span>
+                        <span>@Model.Price</span>
                     </div>
                 </div>
 
-                <div class="row border-bottom border-2 border-dark">
-                    <label class="col-6 col-form-label">Quantity</label>
-                    <div class="col-4 text-end">
-                        <span><i class="fas fa-plus "></i></span>
-                        <input type="text" class="form-control d-inline w-50"/>
-                        <span><i class="fas fa-minus"></i></span>
-                        
+                <div id="qtySection" class="row border-bottom border-2 border-dark">
+                    <label class="col-9 col-form-label text-muted">Quantity</label>
+                    <div class="col-3 border border-2 p-1 text-center rounded">
+                        <span onclick="quantity('inc')"><i class="fas fa-plus text-success"></i></span>
+                        <input type="text" id="qty" class="border border-1 text-center" value="1" readonly/>
+                        <span onclick="quantity('dec')"><i class="fas fa-minus text-danger"></i></span>
                     </div>
                 </div>
                 <div class="row border-bottom border-2 border-dark">
-                    <label class="col-10 col-form-label">Delivery Charge</label>
+                    <label class="col-10 col-form-label text-muted">Delivery Charge</label>
                     <label class="col-2 col-form-label text-success fw-bold">Free</label>
                 </div>
-                <div class="row">
+                <div class="px-1 mb-2">
+                    <label class="form-labe text-muted">Delivery Address</label>
+                    <textarea class="form-control" name="Address"></textarea>
+                </div>
+                <div class="row border-top border-dark border-1">
                     <label class="col-10 col-form-label fs-5 fw-bold">Total</label>
-                    <label class="col-2 col-form-label text-success fw-bold">500</label>
+                    <label class="col-2 col-form-label text-muted fw-bold">@Model.Price</label>
                 </div>
             </div>
         </div>

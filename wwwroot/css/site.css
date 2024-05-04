@@ -141,3 +141,21 @@ header {
     padding-left: 12px;
     padding-top: 10px;
 }
+
+#qty{
+    width:50px;
+    border:none;
+}
+#qty:focus{
+    outline:none;
+}
+
+#qtySection{
+    -webkit-user-select:none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.fa-plus, .fa-minus{
+    cursor:pointer;
+}

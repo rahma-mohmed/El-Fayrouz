@@ -28,7 +28,9 @@ namespace Fayroz.Models
 
         [Display(Name = "Is Special item?")]
         public bool isSpecial { get; set; } = false;
-
+        [Required]
+        [Range(10,500)]
+        public decimal? Price { get; set; }
         public Recipe()
         {
             DateTime = DateTime.Now;
