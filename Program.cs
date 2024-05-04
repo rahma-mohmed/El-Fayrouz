@@ -1,4 +1,6 @@
+using Fayroz.ContextDbConfig;
 using Fayroz.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,8 +8,16 @@ var connectionString = builder.Configuration.GetConnectionString("con") ?? throw
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Configure the DbContext for your application data
 builder.Services.AddDbContext<FayrozDbContext>(options =>
     options.UseSqlServer(connectionString));
+
+
+// Configure Identity to use the Identity-specific DbContext
+builder.Services.AddIdentity<User, IdentityRole>()
+    .AddEntityFrameworkStores<FayrozDbContext>();
+
 builder.Services.AddRazorPages();
 
 builder.Services.AddSession(options =>
@@ -31,10 +41,9 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseAuthentication();
 app.UseAuthorization();
 app.UseSession();
-
 
 app.MapControllerRoute(
     name: "default",

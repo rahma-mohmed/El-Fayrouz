@@ -13,7 +13,7 @@
         <div class="card-body" style="background-image: url('/images/@Model.Image'); background-size:cover; background-position:top;"></div>
         <div class="card-footer bg-muted d-flex justify-content-between align-items-center">
             <p class="card-title fw-bold fs-6" style="color:#155e75">@Model.Name</p>
-            @if (ViewContext.HttpContext.Session.GetString("Name") != null)
+            @if (User.Identity.IsAuthenticated)
             {
                 <a asp-action="Order" asp-controller="Recipe" asp-route-id="@Model.Id"
                    class="btn btn-sm p-2 btn-sm btn-primary"
@@ -23,7 +23,7 @@
             }
             else
             {
-                <a asp-action="Login" asp-controller="Home"
+                <a asp-action="Login" asp-controller="Account"
                    class="btn btn-sm p-2 btn-sm btn-primary"
                    style="color:white;background-color:#155e75;">
                     Order

@@ -1,4 +1,5 @@
-﻿using Fayroz.Models;
+﻿using Fayroz.ContextDbConfig;
+using Fayroz.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.AspNetCore.StaticFiles;

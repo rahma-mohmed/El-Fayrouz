@@ -1,4 +1,5 @@
-﻿using Fayroz.Models;
+﻿using Fayroz.ContextDbConfig;
+using Fayroz.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -14,14 +15,6 @@ namespace Fayroz.Controllers
 
         }
 
-        /*public IActionResult Index()
-        {
-            var recipes = _dbContext.Recipes.ToList();
-            ViewBag.Recipe = recipes;
-            List<Category> Categories = _dbContext.Categories.ToList();
-            ViewBag.Categories = Categories;
-            return View();
-        }*/
         public IActionResult Index()
         {
             var categories = _dbContext.Categories.ToList();

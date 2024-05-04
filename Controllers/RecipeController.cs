@@ -2,6 +2,7 @@
 using Fayroz.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
+using Fayroz.ContextDbConfig;
 
 namespace Fayroz.Controllers
 {
@@ -9,7 +10,6 @@ namespace Fayroz.Controllers
     {
 
         private readonly FayrozDbContext _dbContext;
-        private readonly UserManager<User> _userManager;
         public RecipeController(FayrozDbContext dbContext)
         {
             _dbContext = dbContext;

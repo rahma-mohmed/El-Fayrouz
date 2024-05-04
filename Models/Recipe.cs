@@ -28,10 +28,12 @@ namespace Fayroz.Models
 
         [Display(Name = "Is Special item?")]
         public bool isSpecial { get; set; } = false;
-        [Required]
-        [Range(10,500)]
+
+        [Required(ErrorMessage = "Price is required")]
+        [Range(10, 500, ErrorMessage = "Price must be between 10 and 500")]
         public decimal? Price { get; set; }
-        public Recipe()
+
+    public Recipe()
         {
             DateTime = DateTime.Now;
         }

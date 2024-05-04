@@ -47,7 +47,7 @@
                             <a class="nav-link fs-5" asp-controller="" asp-action="">About us</a>
                         </li>
 
-                        @if (ViewContext.HttpContext.Session.GetString("Name") != null)
+                        @if (User.Identity.IsAuthenticated)
                         {
                             <li class="nav-item">
                                 <a class="nav-link fs-5" asp-controller="AdminAction" asp-action="Index">Actions</a>
@@ -56,23 +56,23 @@
                     </ul>
 
                     <ul class="navbar-nav flex-grow-3">
-                        @if (ViewContext.HttpContext.Session.GetString("Name") != null)
+                        @if (User.Identity.IsAuthenticated)
                         {
                             <li class="nav-item">
-                                <a class="nav-link  fs-5" asp-area="" asp-controller="Home" asp-action="Index">Hello, @ViewContext.HttpContext.Session.GetString("Name")</a>
+                                <a class="nav-link  fs-5" asp-area="" asp-controller="Account" asp-action="Index">Hello, @User.Identity.Name</a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link  fs-5" asp-area="" asp-controller="Home" asp-action="Logout">Logout</a>
+                                <a class="nav-link  fs-5" asp-area="" asp-controller="Account" asp-action="LogOut">Logout</a>
                             </li>
                         }
                         else
                         {
                             <li class="nav-item">
-                                <a class="nav-link  fs-5" asp-area="" asp-controller="Home" asp-action="Signup">SignUp</a>
+                                <a class="nav-link  fs-5" asp-area="" asp-controller="Account" asp-action="Register">SignUp</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link  fs-5" asp-area="" asp-controller="Home" asp-action="Login">Login</a>
+                                <a class="nav-link  fs-5" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
                             </li>
                         }
                     </ul>
