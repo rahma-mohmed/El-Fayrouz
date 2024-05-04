@@ -12,6 +12,7 @@ namespace Fayroz.Models
         public DbSet<OrderRecipeDetails> OrderRecipeDetails { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<User> Users { get; set; }
+        public DbSet<Order> Orders { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

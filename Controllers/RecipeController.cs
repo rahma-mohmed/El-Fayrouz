@@ -1,13 +1,15 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Fayroz.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 
 namespace Fayroz.Controllers
 {
     public class RecipeController : Controller
     {
 
-        private FayrozDbContext _dbContext;
+        private readonly FayrozDbContext _dbContext;
+        private readonly UserManager<User> _userManager;
         public RecipeController(FayrozDbContext dbContext)
         {
             _dbContext = dbContext;
@@ -37,7 +39,7 @@ namespace Fayroz.Controllers
             return View();
         }
 
-        public IActionResult Order(int id) {
+        public async Task<IActionResult> Order(int id) {
             Recipe order = _dbContext.Recipes.FirstOrDefault(x => x.Id == id);
             List<Category> Categories = _dbContext.Categories.ToList();
             ViewBag.Categories = Categories;
