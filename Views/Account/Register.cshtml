@@ -20,7 +20,7 @@
                     </h2>
                     <span class="fst-italic text-muted">Create your account</span>
                 </div>
-
+                <div asp-validation-summary="All" class="text-danger"></div>
                 <div class="form-floating mb-3">
                     <label asp-for="Name" class="form-label" style="color:#155e75;">  </label>
                     <input asp-for="Name" class="form-control pt-5" />
@@ -61,7 +61,7 @@
                 </div>
                 <br />
 
-                <div class="mb-3 text-danger">@ViewBag.Notification</div>
+                
                 <br />
             </form>
         </div>

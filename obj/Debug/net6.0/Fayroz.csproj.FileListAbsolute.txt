@@ -1515,3 +1515,10 @@ C:\Users\3ML4Ever\Desktop\El-Fayrouz\bin\Debug\net6.0\Optivem.Framework.Core.App
 C:\Users\3ML4Ever\Desktop\El-Fayrouz\bin\Debug\net6.0\Optivem.Framework.Core.Common.dll
 C:\Users\3ML4Ever\Desktop\El-Fayrouz\bin\Debug\net6.0\Optivem.Framework.Core.Domain.dll
 C:\Users\3ML4Ever\Desktop\El-Fayrouz\bin\Debug\net6.0\Optivem.Framework.Infrastructure.FluentValidation.dll
+C:\El-Fayroz\El-Fayrouz\bin\Debug\net6.0\FluentValidation.dll
+C:\El-Fayroz\El-Fayrouz\bin\Debug\net6.0\Optivem.Framework.Core.All.dll
+C:\El-Fayroz\El-Fayrouz\bin\Debug\net6.0\Optivem.Framework.Core.Application.dll
+C:\El-Fayroz\El-Fayrouz\bin\Debug\net6.0\Optivem.Framework.Core.Application.Interface.dll
+C:\El-Fayroz\El-Fayrouz\bin\Debug\net6.0\Optivem.Framework.Core.Common.dll
+C:\El-Fayroz\El-Fayrouz\bin\Debug\net6.0\Optivem.Framework.Core.Domain.dll
+C:\El-Fayroz\El-Fayrouz\bin\Debug\net6.0\Optivem.Framework.Infrastructure.FluentValidation.dll

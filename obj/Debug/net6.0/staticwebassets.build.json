@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "omnX8aDN0FOwZYq4zXAnYMOitO46Rl90cdcvf0f3JTo=",
+  "Hash": "y2b22WT+gSq3lLH0N9VZyUVhn4TCLfLfy2FIhSpJTg8=",
   "Source": "Fayroz",
   "BasePath": "_content/Fayroz",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Fayroz\\wwwroot",
       "Source": "Fayroz",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Fayroz.styles.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Fayroz.styles.css",
       "SourceId": "Fayroz",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "Fayroz.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Fayroz.styles.css"
+      "OriginalItemSpec": "C:\\El-Fayroz\\El-Fayrouz\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Fayroz.styles.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Fayroz.bundle.scp.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Fayroz.bundle.scp.css",
       "SourceId": "Fayroz",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "Fayroz.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Fayroz.bundle.scp.css"
+      "OriginalItemSpec": "C:\\El-Fayroz\\El-Fayrouz\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Fayroz.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\css\\jquery-ui.min.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\css\\jquery-ui.min.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "css/jquery-ui.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery-ui.min.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\css\\site.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\css\\site.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\favicon.ico",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\favicon.ico",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\1.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\1.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/1.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\10.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\10.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/10.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\images\\10.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\11.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\11.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/11.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\11.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\13.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\13.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/13.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\13.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\16.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\16.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/16.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\16.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\17.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\17.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/17.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\17.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\18.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\18.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/18.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\18.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\19.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\19.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/19.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\19.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\2.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\2.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/2.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\20.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\20.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/20.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\20.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\21.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\21.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/21.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\21.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\22.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\22.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/22.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\22.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\23.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\23.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/23.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\23.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\24.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\24.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/24.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\24.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\25.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\25.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/25.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\25.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\26.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\26.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/26.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\26.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\27.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\27.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/27.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\27.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\28.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\28.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/28.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\images\\28.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\29.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\29.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/29.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\images\\29.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\3.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\3.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/3.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\images\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\30.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\30.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/30.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\30.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\31.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\31.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/31.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\images\\31.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\32.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\32.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/32.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\images\\32.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\33.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\33.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/33.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\images\\33.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\34.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\34.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/34.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\images\\34.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\35.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\35.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/35.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\images\\35.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\36.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\36.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/36.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\images\\36.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\37.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\37.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/37.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\37.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\4.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\4.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/4.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\images\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\6.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\6.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/6.jpg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\images\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\7.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\7.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/7.jpg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\images\\7.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\8.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\8.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/8.jpg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\images\\8.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\9.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\9.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/9.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\images\\9.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\logo.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\logo.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/logo.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\m1 (3).jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\m1 (3).jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/m1 (3).jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\images\\m1 (3).jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\m1.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\m1.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/m1.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\images\\m1.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\m2 (2).jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\m2 (2).jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/m2 (2).jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\images\\m2 (2).jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\m2.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\m2.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/m2.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\m2.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\m7.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\m7.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/m7.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\images\\m7.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\team-1.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\team-1.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/team-1.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\team-2.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\team-2.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/team-2.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\team-3.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\team-3.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/team-3.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\images\\team-4.jpg",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\team-4.jpg",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "images/team-4.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\js\\jquery-ui.min.js",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\js\\jquery-ui.min.js",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "js/jquery-ui.min.js",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-ui.min.js"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\js\\recipe-form.js",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\js\\recipe-form.js",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "js/recipe-form.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\js\\recipe-form.js"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\js\\site.js",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\js\\site.js",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Fayroz",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
       "BasePath": "_content/Fayroz",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

@@ -34,9 +34,14 @@ namespace Fayroz.Controllers
                 {
                     return RedirectToAction("Index", "Home");
                 }
+                else
+                {
+                    ModelState.AddModelError(string.Empty, "Invalid login attempt check email or password.");
+                }
             }
             return View(login);
         }
+
         #endregion
 
         #region LogOut
@@ -76,6 +81,14 @@ namespace Fayroz.Controllers
                 {
                     await _signInManager.PasswordSignInAsync(user, register.Password, false, false);
                     return RedirectToAction("Index","Home");
+                }
+                else
+                {
+                    // Add errors to ModelState
+                    foreach (var error in result.Errors)
+                    {
+                        ModelState.AddModelError(string.Empty, error.Description);
+                    }
                 }
             }
             var Address = _dbContext.Addresses
