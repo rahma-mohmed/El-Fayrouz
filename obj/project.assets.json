@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "FluentValidation/8.6.1": {
+        "type": "package",
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.4.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Humanizer/2.14.1": {
         "type": "package",
         "dependencies": {
@@ -2114,6 +2130,74 @@
           "lib/netstandard2.0/NuGet.Versioning.dll": {}
         }
       },
+      "Optivem.Framework.Core.All/1.0.23": {
+        "type": "package",
+        "dependencies": {
+          "Optivem.Framework.Core.Application": "1.0.23",
+          "Optivem.Framework.Core.Application.Interface": "1.0.23",
+          "Optivem.Framework.Core.Common": "1.0.23",
+          "Optivem.Framework.Core.Domain": "1.0.23"
+        },
+        "compile": {
+          "lib/netstandard2.1/Optivem.Framework.Core.All.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Optivem.Framework.Core.All.dll": {}
+        }
+      },
+      "Optivem.Framework.Core.Application/1.0.23": {
+        "type": "package",
+        "dependencies": {
+          "Optivem.Framework.Core.Application.Interface": "1.0.23",
+          "Optivem.Framework.Core.Domain": "1.0.23"
+        },
+        "compile": {
+          "lib/netstandard2.1/Optivem.Framework.Core.Application.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Optivem.Framework.Core.Application.dll": {}
+        }
+      },
+      "Optivem.Framework.Core.Application.Interface/1.0.23": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Optivem.Framework.Core.Application.Interface.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Optivem.Framework.Core.Application.Interface.dll": {}
+        }
+      },
+      "Optivem.Framework.Core.Common/1.0.23": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Optivem.Framework.Core.Common.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Optivem.Framework.Core.Common.dll": {}
+        }
+      },
+      "Optivem.Framework.Core.Domain/1.0.23": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Optivem.Framework.Core.Domain.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Optivem.Framework.Core.Domain.dll": {}
+        }
+      },
+      "Optivem.Framework.Infrastructure.FluentValidation/1.0.23": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation": "8.6.1",
+          "Optivem.Framework.Core.All": "1.0.23"
+        },
+        "compile": {
+          "lib/netstandard2.1/Optivem.Framework.Infrastructure.FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Optivem.Framework.Infrastructure.FluentValidation.dll": {}
+        }
+      },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
         "type": "package",
         "runtimeTargets": {
@@ -2368,6 +2452,15 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "System.ComponentModel.Annotations/4.4.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       },
       "System.Composition/1.0.31": {
@@ -3814,6 +3907,25 @@
     }
   },
   "libraries": {
+    "FluentValidation/8.6.1": {
+      "sha512": "g0xw/YCVgJ1IYpBgKF9iuci/Arf6Dsq9H/WeeT9zaBpjrEA+Cr2GjWXHu1F0DKqVzp4J4hta4gGrRt6H4aESqQ==",
+      "type": "package",
+      "path": "fluentvalidation/8.6.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluentvalidation.8.6.1.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net45/FluentValidation.dll",
+        "lib/net45/FluentValidation.xml",
+        "lib/netstandard1.1/FluentValidation.dll",
+        "lib/netstandard1.1/FluentValidation.xml",
+        "lib/netstandard1.6/FluentValidation.dll",
+        "lib/netstandard1.6/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml"
+      ]
+    },
     "Humanizer/2.14.1": {
       "sha512": "/FUTD3cEceAAmJSCPN9+J+VhGwmL/C12jvwlyM1DFXShEMsBzvLzLqSrJ2rb+k/W2znKw7JyflZgZpyE+tI7lA==",
       "type": "package",
@@ -6826,6 +6938,78 @@
         "nuget.versioning.nuspec"
       ]
     },
+    "Optivem.Framework.Core.All/1.0.23": {
+      "sha512": "Dg2qbgsFXpx7I6e0qk9aorwacjxe+H4HH3QQEzL5xTVFuzcvfDlmfNNfuXcNZmkoJWiW0kSqY0DoYcOjsXgfQg==",
+      "type": "package",
+      "path": "optivem.framework.core.all/1.0.23",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.1/Optivem.Framework.Core.All.dll",
+        "optivem.framework.core.all.1.0.23.nupkg.sha512",
+        "optivem.framework.core.all.nuspec"
+      ]
+    },
+    "Optivem.Framework.Core.Application/1.0.23": {
+      "sha512": "ml/7xXWubBoDfHETKt0eSiselY41Ihx+hUyzKyXbvBHxDLHBBvAR4J4cLTIt+kGJxn7XXVC7DZBfW106nXAcYQ==",
+      "type": "package",
+      "path": "optivem.framework.core.application/1.0.23",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.1/Optivem.Framework.Core.Application.dll",
+        "optivem.framework.core.application.1.0.23.nupkg.sha512",
+        "optivem.framework.core.application.nuspec"
+      ]
+    },
+    "Optivem.Framework.Core.Application.Interface/1.0.23": {
+      "sha512": "t1o/xeZtkvPXqcuVROnvU7ToCbEPEq3sVAcpgr56YS7IPpuYBy3/pQnRKGYAx62KR5RBpolKpA0PjeAFmVDrCQ==",
+      "type": "package",
+      "path": "optivem.framework.core.application.interface/1.0.23",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.1/Optivem.Framework.Core.Application.Interface.dll",
+        "optivem.framework.core.application.interface.1.0.23.nupkg.sha512",
+        "optivem.framework.core.application.interface.nuspec"
+      ]
+    },
+    "Optivem.Framework.Core.Common/1.0.23": {
+      "sha512": "d74Q91ZxWJpdyWqQf0WnmEX7Rcu+FWMyJlv/ZTPnq9PCNGnBPkXDyD2xQymnlmr8ymUyAvRNfX/OQ06WdtYVyg==",
+      "type": "package",
+      "path": "optivem.framework.core.common/1.0.23",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.1/Optivem.Framework.Core.Common.dll",
+        "optivem.framework.core.common.1.0.23.nupkg.sha512",
+        "optivem.framework.core.common.nuspec"
+      ]
+    },
+    "Optivem.Framework.Core.Domain/1.0.23": {
+      "sha512": "om7j5+k3Qxx5UdoVAp2Rnd0f5GoIQcBZzaIYAk90dYnDZLG5kwz0iOhHeLUUsB/0/A/RKgFD+SW+Z7vtkYy0pg==",
+      "type": "package",
+      "path": "optivem.framework.core.domain/1.0.23",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.1/Optivem.Framework.Core.Domain.dll",
+        "optivem.framework.core.domain.1.0.23.nupkg.sha512",
+        "optivem.framework.core.domain.nuspec"
+      ]
+    },
+    "Optivem.Framework.Infrastructure.FluentValidation/1.0.23": {
+      "sha512": "kaKk6tPpNIVxPoPG4r58rSp/bs9JYa2pi/YRfKqTe3JQge9OBXDeJ1fZiLdqMpQJHg1Si6r/Kk5VKwVNfWwmCw==",
+      "type": "package",
+      "path": "optivem.framework.infrastructure.fluentvalidation/1.0.23",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.1/Optivem.Framework.Infrastructure.FluentValidation.dll",
+        "optivem.framework.infrastructure.fluentvalidation.1.0.23.nupkg.sha512",
+        "optivem.framework.infrastructure.fluentvalidation.nuspec"
+      ]
+    },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
       "sha512": "HdSSp5MnJSsg08KMfZThpuLPJpPwE5hBXvHwoKWosyHHfe8Mh5WKT0ylEOf6yNzX6Ngjxe4Whkafh5q7Ymac4Q==",
       "type": "package",
@@ -7277,6 +7461,93 @@
         "system.collections.immutable.6.0.0.nupkg.sha512",
         "system.collections.immutable.nuspec",
         "useSharedDesignerContext.txt"
+      ]
+    },
+    "System.ComponentModel.Annotations/4.4.1": {
+      "sha512": "ToiYqSCioqhtspq2O/jYKtyTC/T0uwWHBTYlzCi6PRbSSHArN1IaRWeHffDamvms5sye5FDUWCfNZgubQpNRsA==",
+      "type": "package",
+      "path": "system.componentmodel.annotations/4.4.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/net461/System.ComponentModel.Annotations.dll",
+        "lib/netcore50/System.ComponentModel.Annotations.dll",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.4/System.ComponentModel.Annotations.dll",
+        "lib/netstandard2.0/System.ComponentModel.Annotations.dll",
+        "lib/portable-net45+win8/_._",
+        "lib/win8/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/net461/System.ComponentModel.Annotations.dll",
+        "ref/net461/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/System.ComponentModel.Annotations.dll",
+        "ref/netcore50/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/de/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/es/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/fr/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/it/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/ja/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/ko/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/ru/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/zh-hans/System.ComponentModel.Annotations.xml",
+        "ref/netcore50/zh-hant/System.ComponentModel.Annotations.xml",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard1.1/System.ComponentModel.Annotations.dll",
+        "ref/netstandard1.1/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/de/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/es/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/fr/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/it/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/ja/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/ko/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/ru/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/zh-hans/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.1/zh-hant/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/System.ComponentModel.Annotations.dll",
+        "ref/netstandard1.3/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/de/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/es/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/fr/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/it/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/ja/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/ko/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/ru/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/zh-hans/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.3/zh-hant/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/System.ComponentModel.Annotations.dll",
+        "ref/netstandard1.4/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/de/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/es/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/fr/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/it/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/ja/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/ko/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/ru/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/zh-hans/System.ComponentModel.Annotations.xml",
+        "ref/netstandard1.4/zh-hant/System.ComponentModel.Annotations.xml",
+        "ref/netstandard2.0/System.ComponentModel.Annotations.dll",
+        "ref/netstandard2.0/System.ComponentModel.Annotations.xml",
+        "ref/portable-net45+win8/_._",
+        "ref/win8/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.componentmodel.annotations.4.4.1.nupkg.sha512",
+        "system.componentmodel.annotations.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
       ]
     },
     "System.Composition/1.0.31": {
@@ -10857,28 +11128,29 @@
       "Microsoft.EntityFrameworkCore >= 6.0.29",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.29",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.29",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.16"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.16",
+      "Optivem.Framework.Infrastructure.FluentValidation >= 1.0.23"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\husse\\.nuget\\packages\\": {},
-    "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages": {}
+    "C:\\Users\\3ML4Ever\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\El-Fayroz\\El-Fayrouz\\Fayroz.csproj",
+      "projectUniqueName": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Fayroz.csproj",
       "projectName": "Fayroz",
-      "projectPath": "C:\\El-Fayroz\\El-Fayrouz\\Fayroz.csproj",
-      "packagesPath": "C:\\Users\\husse\\.nuget\\packages\\",
-      "outputPath": "C:\\El-Fayroz\\El-Fayrouz\\obj\\",
+      "projectPath": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Fayroz.csproj",
+      "packagesPath": "C:\\Users\\3ML4Ever\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\husse\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+        "C:\\Users\\3ML4Ever\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10886,7 +11158,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10931,6 +11202,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[6.0.16, )"
+          },
+          "Optivem.Framework.Infrastructure.FluentValidation": {
+            "target": "Package",
+            "version": "[1.0.23, )"
           }
         },
         "imports": [
@@ -10952,7 +11227,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

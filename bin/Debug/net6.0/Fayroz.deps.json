@@ -12,10 +12,22 @@
           "Microsoft.EntityFrameworkCore": "6.0.29",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.29",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.29",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.16"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.16",
+          "Optivem.Framework.Infrastructure.FluentValidation": "1.0.23"
         },
         "runtime": {
           "Fayroz.dll": {}
+        }
+      },
+      "FluentValidation/8.6.1": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.4.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.6.1.0"
+          }
         }
       },
       "Humanizer/2.14.1": {
@@ -1675,6 +1687,68 @@
           }
         }
       },
+      "Optivem.Framework.Core.All/1.0.23": {
+        "dependencies": {
+          "Optivem.Framework.Core.Application": "1.0.23",
+          "Optivem.Framework.Core.Application.Interface": "1.0.23",
+          "Optivem.Framework.Core.Common": "1.0.23",
+          "Optivem.Framework.Core.Domain": "1.0.23"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Optivem.Framework.Core.All.dll": {
+            "assemblyVersion": "1.0.23.0",
+            "fileVersion": "1.0.23.0"
+          }
+        }
+      },
+      "Optivem.Framework.Core.Application/1.0.23": {
+        "dependencies": {
+          "Optivem.Framework.Core.Application.Interface": "1.0.23",
+          "Optivem.Framework.Core.Domain": "1.0.23"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Optivem.Framework.Core.Application.dll": {
+            "assemblyVersion": "1.0.23.0",
+            "fileVersion": "1.0.23.0"
+          }
+        }
+      },
+      "Optivem.Framework.Core.Application.Interface/1.0.23": {
+        "runtime": {
+          "lib/netstandard2.1/Optivem.Framework.Core.Application.Interface.dll": {
+            "assemblyVersion": "1.0.23.0",
+            "fileVersion": "1.0.23.0"
+          }
+        }
+      },
+      "Optivem.Framework.Core.Common/1.0.23": {
+        "runtime": {
+          "lib/netstandard2.1/Optivem.Framework.Core.Common.dll": {
+            "assemblyVersion": "1.0.23.0",
+            "fileVersion": "1.0.23.0"
+          }
+        }
+      },
+      "Optivem.Framework.Core.Domain/1.0.23": {
+        "runtime": {
+          "lib/netstandard2.1/Optivem.Framework.Core.Domain.dll": {
+            "assemblyVersion": "1.0.23.0",
+            "fileVersion": "1.0.23.0"
+          }
+        }
+      },
+      "Optivem.Framework.Infrastructure.FluentValidation/1.0.23": {
+        "dependencies": {
+          "FluentValidation": "8.6.1",
+          "Optivem.Framework.Core.All": "1.0.23"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Optivem.Framework.Infrastructure.FluentValidation.dll": {
+            "assemblyVersion": "1.0.23.0",
+            "fileVersion": "1.0.23.0"
+          }
+        }
+      },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
@@ -1763,6 +1837,7 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         }
       },
+      "System.ComponentModel.Annotations/4.4.1": {},
       "System.Composition/1.0.31": {
         "dependencies": {
           "System.Composition.AttributedModel": "1.0.31",
@@ -2536,6 +2611,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FluentValidation/8.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-g0xw/YCVgJ1IYpBgKF9iuci/Arf6Dsq9H/WeeT9zaBpjrEA+Cr2GjWXHu1F0DKqVzp4J4hta4gGrRt6H4aESqQ==",
+      "path": "fluentvalidation/8.6.1",
+      "hashPath": "fluentvalidation.8.6.1.nupkg.sha512"
     },
     "Humanizer/2.14.1": {
       "type": "package",
@@ -3405,6 +3487,48 @@
       "path": "nuget.versioning/6.6.1",
       "hashPath": "nuget.versioning.6.6.1.nupkg.sha512"
     },
+    "Optivem.Framework.Core.All/1.0.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Dg2qbgsFXpx7I6e0qk9aorwacjxe+H4HH3QQEzL5xTVFuzcvfDlmfNNfuXcNZmkoJWiW0kSqY0DoYcOjsXgfQg==",
+      "path": "optivem.framework.core.all/1.0.23",
+      "hashPath": "optivem.framework.core.all.1.0.23.nupkg.sha512"
+    },
+    "Optivem.Framework.Core.Application/1.0.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ml/7xXWubBoDfHETKt0eSiselY41Ihx+hUyzKyXbvBHxDLHBBvAR4J4cLTIt+kGJxn7XXVC7DZBfW106nXAcYQ==",
+      "path": "optivem.framework.core.application/1.0.23",
+      "hashPath": "optivem.framework.core.application.1.0.23.nupkg.sha512"
+    },
+    "Optivem.Framework.Core.Application.Interface/1.0.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t1o/xeZtkvPXqcuVROnvU7ToCbEPEq3sVAcpgr56YS7IPpuYBy3/pQnRKGYAx62KR5RBpolKpA0PjeAFmVDrCQ==",
+      "path": "optivem.framework.core.application.interface/1.0.23",
+      "hashPath": "optivem.framework.core.application.interface.1.0.23.nupkg.sha512"
+    },
+    "Optivem.Framework.Core.Common/1.0.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-d74Q91ZxWJpdyWqQf0WnmEX7Rcu+FWMyJlv/ZTPnq9PCNGnBPkXDyD2xQymnlmr8ymUyAvRNfX/OQ06WdtYVyg==",
+      "path": "optivem.framework.core.common/1.0.23",
+      "hashPath": "optivem.framework.core.common.1.0.23.nupkg.sha512"
+    },
+    "Optivem.Framework.Core.Domain/1.0.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-om7j5+k3Qxx5UdoVAp2Rnd0f5GoIQcBZzaIYAk90dYnDZLG5kwz0iOhHeLUUsB/0/A/RKgFD+SW+Z7vtkYy0pg==",
+      "path": "optivem.framework.core.domain/1.0.23",
+      "hashPath": "optivem.framework.core.domain.1.0.23.nupkg.sha512"
+    },
+    "Optivem.Framework.Infrastructure.FluentValidation/1.0.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kaKk6tPpNIVxPoPG4r58rSp/bs9JYa2pi/YRfKqTe3JQge9OBXDeJ1fZiLdqMpQJHg1Si6r/Kk5VKwVNfWwmCw==",
+      "path": "optivem.framework.infrastructure.fluentvalidation/1.0.23",
+      "hashPath": "optivem.framework.infrastructure.fluentvalidation.1.0.23.nupkg.sha512"
+    },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
       "type": "package",
       "serviceable": true,
@@ -3551,6 +3675,13 @@
       "sha512": "sha512-l4zZJ1WU2hqpQQHXz1rvC3etVZN+2DLmQMO79FhOTZHMn8tDRr+WU287sbomD0BETlmKDn0ygUgVy9k5xkkJdA==",
       "path": "system.collections.immutable/6.0.0",
       "hashPath": "system.collections.immutable.6.0.0.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/4.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ToiYqSCioqhtspq2O/jYKtyTC/T0uwWHBTYlzCi6PRbSSHArN1IaRWeHffDamvms5sye5FDUWCfNZgubQpNRsA==",
+      "path": "system.componentmodel.annotations/4.4.1",
+      "hashPath": "system.componentmodel.annotations.4.4.1.nupkg.sha512"
     },
     "System.Composition/1.0.31": {
       "type": "package",

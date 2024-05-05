@@ -1,5 +1,6 @@
 using Fayroz.ContextDbConfig;
 using Fayroz.Models;
+using Fayroz.Repository;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -17,6 +18,8 @@ builder.Services.AddDbContext<FayrozDbContext>(options =>
 // Configure Identity to use the Identity-specific DbContext
 builder.Services.AddIdentity<User, IdentityRole>()
     .AddEntityFrameworkStores<FayrozDbContext>();
+
+builder.Services.AddTransient<IData, Data>();
 
 builder.Services.AddRazorPages();
 

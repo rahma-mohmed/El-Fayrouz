@@ -39,7 +39,7 @@ namespace Fayroz.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Addresses", (string)null);
+                    b.ToTable("Addresses");
 
                     b.HasData(
                         new
@@ -344,6 +344,37 @@ namespace Fayroz.Migrations
                         });
                 });
 
+            modelBuilder.Entity("Fayroz.Models.Cart", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Image")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("RecipeId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("UserId")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Carts");
+                });
+
             modelBuilder.Entity("Fayroz.Models.Category", b =>
                 {
                     b.Property<int>("Id")
@@ -358,7 +389,7 @@ namespace Fayroz.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Categories", (string)null);
+                    b.ToTable("Categories");
 
                     b.HasData(
                         new
@@ -428,7 +459,7 @@ namespace Fayroz.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Orders", (string)null);
+                    b.ToTable("Orders");
                 });
 
             modelBuilder.Entity("Fayroz.Models.OrderRecipeDetails", b =>
@@ -448,7 +479,7 @@ namespace Fayroz.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("OrderRecipeDetails", (string)null);
+                    b.ToTable("OrderRecipeDetails");
                 });
 
             modelBuilder.Entity("Fayroz.Models.Recipe", b =>
@@ -489,7 +520,7 @@ namespace Fayroz.Migrations
 
                     b.HasIndex("CategoryId");
 
-                    b.ToTable("Recipes", (string)null);
+                    b.ToTable("Recipes");
                 });
 
             modelBuilder.Entity("Fayroz.Models.User", b =>

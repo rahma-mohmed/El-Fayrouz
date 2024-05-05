@@ -159,3 +159,40 @@ header {
 .fa-plus, .fa-minus{
     cursor:pointer;
 }
+
+.fa-heart {
+    cursor: pointer;
+}
+
+#showCartList {
+    display: none;
+    right: 10px;
+    width: 300px;
+}
+
+#CartListIcon:hover ~ #showCartList {
+    display: block;
+}
+
+.cartListImage {
+    width: 150px;
+    height: 80px;
+}
+
+#showCartList:hover {
+    display: block;
+}
+
+.cartImage {
+    width: 180px;
+    height: 100px;
+    padding-right: 10px;
+}
+
+.cartTitle {
+    width: 500px;
+}
+
+.emptycart {
+    font-size: 300px;
+}

@@ -1,0 +1,13 @@
+﻿@model IEnumerable<Cart>
+
+@foreach(var cart in Model)
+{
+    <div class="border-bottom p-2 d-flex">
+        <img src="~/images/@cart.Image" class="cartListImage"/>
+        <a class="fw-bold px-2" asp-controller="Recipe" asp-action="Order" asp-route-id ="@cart.RecipeId"> @(cart.Name?.Length >= 15 ? cart.Name.Substring(0,14)+ "...":cart.Name)</a>
+    </div>
+}
+
+<div class="text-center p-2">
+    <a href="/Cart" class="btn btn-sm btn-primary fs-6 w-100 text-decoration-none" style="color:white;background-color:#155e75;">Go to Cart</a>
+</div>
