@@ -16,22 +16,11 @@
                 <i class="far fa-heart fs-5" style="padding-right:0px;color: #155e75;"> </i>
             </span>
             <p class="card-title fw-bold fs-6" style="color:#155e75">@Model.Name</p>
-            @if (User.Identity.IsAuthenticated)
-            {
-                <a asp-action="Order" asp-controller="Recipe" asp-route-id="@Model.Id"
-                   class="btn btn-sm p-2 btn-sm btn-primary"
-                style="color:white;background-color:#155e75;">
-                    Order
-                </a>
-            }
-            else
-            {
-                <a asp-action="Login" asp-controller="Account"
-                   class="btn btn-sm p-2 btn-sm btn-primary"
-                   style="color:white;background-color:#155e75;">
-                    Order
-                </a>
-            }
+            <a asp-action="Order" asp-controller="Recipe" asp-route-id="@Model.Id"
+               class="btn btn-sm p-2 btn-sm btn-primary"
+               style="color:white;background-color:#155e75;">
+                Order
+            </a>
         </div>
     </div>
 </div>

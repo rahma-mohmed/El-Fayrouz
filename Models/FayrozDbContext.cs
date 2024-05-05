@@ -1,5 +1,4 @@
 ﻿using Fayroz.Models;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,7 +11,6 @@ namespace Fayroz.ContextDbConfig
         }
 
         public DbSet<Recipe> Recipes { get; set; }
-        public DbSet<OrderRecipeDetails> OrderRecipeDetails { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Address> Addresses { get; set; }
         public DbSet<Order> Orders { get; set; }

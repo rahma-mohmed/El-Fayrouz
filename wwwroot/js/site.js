@@ -1,12 +1,16 @@
 ﻿function quantity(option) {
     let qty = $('#qty').val();
+    let price = parseFloat($('#price').val());
+    let totalAmount = 0;
     if (option === 'inc') {
         qty = parseInt(qty) + 1;
     }
     else {
         qty = qty == 1 ? qty : qty - 1;
     }
+    totalAmount = price * qty;
     $('#qty').val(qty);
+    $('#TotalAmount').val(totalAmount);
 }
 
 function cart(addcls, removecls) {

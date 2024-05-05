@@ -25,13 +25,15 @@ namespace Fayroz.Controllers
             return View();
         }
         [HttpPost]
-        public async Task<IActionResult?> Login(Login login)
+        public async Task<IActionResult?> Login(Login login,string? returnURL)
         {
             if (ModelState.IsValid)
             {
                 var result = await _signInManager.PasswordSignInAsync(login.Email, login.Password, false, false);
                 if (result.Succeeded)
                 {
+                    if(!string.IsNullOrEmpty(returnURL))
+                        return LocalRedirect(returnURL);
                     return RedirectToAction("Index", "Home");
                 }
                 else
@@ -74,7 +76,8 @@ namespace Fayroz.Controllers
                     Name = register.Name,
                     Email = register.Email,
                     Address = _dbContext.Addresses.Find(register.AddressId).CityName,
-                    UserName = register.Name,
+                    UserName = register.Email,
+                    
                 };
                 var result =await _userManager.CreateAsync(user,register.Password);
                 if (result.Succeeded)

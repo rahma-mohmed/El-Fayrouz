@@ -58,16 +58,17 @@
                     <ul class="navbar-nav flex-grow-3">
                         @if (User.Identity.IsAuthenticated)
                         {
-                            <li class="nav-item">
-                                <a class="nav-link  fs-5" asp-area="" asp-controller="Home" asp-action="Index">Hello, @User.Identity.Name</a>
-                            </li>
-
-                            <div class="text-center">
+                            <div class="text-center nav-fill">
                                 <span id="CartListIcon"><i class="fas fa-shopping-cart mx-2 fs-5 pt-2" style="color: #cffafe;"> </i> </span>
                                 <div id="showCartList" class="position-absolute shadow-lg rounded bg-white p-2">
                                 </div>
                             </div>
+                            <li class="nav-item">
+                                <a class="nav-link fs-5" asp-area="" asp-controller="Home" asp-action="Index">
+                                    <i class="fas fa-solid fa-user"></i>
+                                </a>
 
+                            </li>
                             <li class="nav-item">
                                 <a class="nav-link  fs-5" asp-area="" asp-controller="Account" asp-action="LogOut">Logout</a>
                             </li>

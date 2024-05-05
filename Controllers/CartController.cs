@@ -10,7 +10,7 @@ namespace Fayroz.Controllers
     public class CartController : Controller
     {
         private readonly FayrozDbContext _dbContext;
-        private readonly UserManager<User> _userManager; 
+        private readonly UserManager<User> _userManager;
 
         public CartController(FayrozDbContext dbContext, UserManager<User> userManager)
         {
@@ -62,13 +62,8 @@ namespace Fayroz.Controllers
         [HttpPost]
         public async Task<IActionResult> RemoveCart(int id)
         {
-            var user = await _userManager.GetUserAsync(User); 
+            var user = await _userManager.GetUserAsync(User);
             var c = _dbContext.Carts.FirstOrDefault(x => x.RecipeId == id && x.UserId == user.Id);
-
-            if (c == null)
-            {
-                return NotFound("Cart not found");
-            }
 
             _dbContext.Carts.Remove(c);
             _dbContext.SaveChanges();
@@ -78,14 +73,14 @@ namespace Fayroz.Controllers
         [HttpGet]
         public async Task<IActionResult> GetCart()
         {
-            var user = await _userManager.GetUserAsync(User); 
+            var user = await _userManager.GetUserAsync(User);
             var cartList = _dbContext.Carts.Where(c => c.UserId == user.Id).Take(3).ToList();
             return PartialView("_GetCart", cartList);
         }
 
         public async Task<IActionResult> DeleteCartItem(int id)
         {
-            var user = await _userManager.GetUserAsync(User); 
+            var user = await _userManager.GetUserAsync(User);
             var c = _dbContext.Carts.FirstOrDefault(x => x.Id == id && x.UserId == user.Id);
             _dbContext.Carts.Remove(c);
             _dbContext.SaveChanges();

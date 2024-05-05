@@ -3,6 +3,7 @@ using Fayroz.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 using Fayroz.ContextDbConfig;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Fayroz.Controllers
 {
@@ -10,9 +11,11 @@ namespace Fayroz.Controllers
     {
 
         private readonly FayrozDbContext _dbContext;
-        public RecipeController(FayrozDbContext dbContext)
+        private readonly UserManager<User> _userManager;
+        public RecipeController(FayrozDbContext dbContext, UserManager<User> userManager)
         {
             _dbContext = dbContext;
+            _userManager = userManager;
         }
 
         public IActionResult Index()
@@ -38,12 +41,29 @@ namespace Fayroz.Controllers
             ViewBag.Categories = Categories;
             return View();
         }
-
+        [Authorize]
         public async Task<IActionResult> Order(int id) {
             Recipe order = _dbContext.Recipes.FirstOrDefault(x => x.Id == id);
             List<Category> Categories = _dbContext.Categories.ToList();
             ViewBag.Categories = Categories;
+            var user = await _userManager.GetUserAsync(HttpContext.User);
+            ViewBag.UserId = user.Id;
+            ViewBag.Address = user.Address;
+            ViewBag.Price = order.Price;
             return View(order);
+        }
+        [HttpPost]
+        [Authorize]
+        public IActionResult Order(Order order)
+        {
+            if(ModelState.IsValid)
+            {
+                order.Id = 0;
+                _dbContext.Orders.Add(order);
+                _dbContext.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return RedirectToAction("Order","Recipe",order.RecipeId);
         }
     }
 }
