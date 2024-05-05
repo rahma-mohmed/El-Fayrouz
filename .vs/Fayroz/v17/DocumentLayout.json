@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\users\\3ml4ever\\desktop\\el-fayrouz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\users\\3ml4ever\\desktop\\el-fayrouz\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -61,18 +65,6 @@
       "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:controllers\\adminactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\users\\3ml4ever\\desktop\\el-fayrouz\\repository\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:repository\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\users\\3ml4ever\\desktop\\el-fayrouz\\repository\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:repository\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\users\\3ml4ever\\desktop\\el-fayrouz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\users\\3ml4ever\\desktop\\el-fayrouz\\views\\recipe\\_recipecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:views\\recipe\\_recipecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -112,11 +104,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Views\\Menu\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Menu\\Index.cshtml",
@@ -124,22 +116,20 @@
               "RelativeToolTip": "Views\\Menu\\Index.cshtml",
               "ViewState": "AQIAACEAAAAAAAAAAAAAAC4AAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-05T04:13:59.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T04:13:59.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "dbo.Carts [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/./fayrozDb4/True/SqlTable/dbo.Carts.sql",
               "ToolTip": "dbo.Carts [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-05T04:09:54.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T04:09:54.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -151,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "20240505035907_init10.cs",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Migrations\\appDb\\20240505035907_init10.cs",
               "RelativeDocumentMoniker": "Migrations\\appDb\\20240505035907_init10.cs",
@@ -163,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "Controllers\\CartController.cs",
@@ -176,7 +166,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T02:33:39.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "dbo.AspNetUsers [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/./fayrozDb4/True/SqlTable/dbo.AspNetUsers.sql",
               "ToolTip": "dbo.AspNetUsers [Data]",
@@ -185,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Recipe.cs",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Models\\Recipe.cs",
               "RelativeDocumentMoniker": "Models\\Recipe.cs",
@@ -197,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -209,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -221,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "Models\\Cart.cs",
@@ -233,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -245,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "FayrozDbContext.cs",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Models\\FayrozDbContext.cs",
               "RelativeDocumentMoniker": "Models\\FayrozDbContext.cs",
@@ -257,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -269,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_GetCart.cshtml",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Views\\Cart\\_GetCart.cshtml",
               "RelativeDocumentMoniker": "Views\\Cart\\_GetCart.cshtml",
@@ -281,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AdminActionController.cs",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Controllers\\AdminActionController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminActionController.cs",
@@ -293,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "OrderRecipeDetails.cs",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Models\\OrderRecipeDetails.cs",
               "RelativeDocumentMoniker": "Models\\OrderRecipeDetails.cs",
@@ -305,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Views\\Recipe\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Recipe\\Index.cshtml",
@@ -317,43 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Repository\\Data.cs",
-              "RelativeDocumentMoniker": "Repository\\Data.cs",
-              "ToolTip": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Repository\\Data.cs",
-              "RelativeToolTip": "Repository\\Data.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T02:33:11.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T02:33:39.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IData.cs",
-              "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Repository\\IData.cs",
-              "RelativeDocumentMoniker": "Repository\\IData.cs",
-              "ToolTip": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Repository\\IData.cs",
-              "RelativeToolTip": "Repository\\IData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T02:32:14.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
@@ -365,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "_RecipeCard.cshtml",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Views\\Recipe\\_RecipeCard.cshtml",
               "RelativeDocumentMoniker": "Views\\Recipe\\_RecipeCard.cshtml",
@@ -377,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "MenuController.cs",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Controllers\\MenuController.cs",
               "RelativeDocumentMoniker": "Controllers\\MenuController.cs",
@@ -389,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
@@ -401,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 20,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -413,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 23,
               "Title": "RecipeController.cs",
               "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Controllers\\RecipeController.cs",
               "RelativeDocumentMoniker": "Controllers\\RecipeController.cs",
