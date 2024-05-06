@@ -58,11 +58,11 @@
                     <ul class="navbar-nav flex-grow-3">
                         @if (User.Identity.IsAuthenticated)
                         {
-                            <div class="text-center nav-fill">
+                            <li>
                                 <span id="CartListIcon"><i class="fas fa-shopping-cart mx-2 fs-5 pt-2" style="color: #cffafe;"> </i> </span>
                                 <div id="showCartList" class="position-absolute shadow-lg rounded bg-white p-2">
                                 </div>
-                            </div>
+                            </li>
                             <li class="nav-item">
                                 <a class="nav-link fs-5" asp-area="" asp-controller="Home" asp-action="Index">
                                     <i class="fas fa-solid fa-user"></i>
@@ -140,11 +140,15 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     <script src="~/js/jquery-ui.min.js"></script>
-    <script type="text/javascript">
-        $(document).ready(function () {
-            getCartList();
-        })
-    </script>
+    @if (User.Identity!.IsAuthenticated)
+    {
+        <script type="text/javascript">
+            $(document).ready(function () {
+                getCartList();
+                GetAddedCart();
+            })
+        </script>
+    }
     @await RenderSectionAsync("Scripts", required: false)
 
 </body>

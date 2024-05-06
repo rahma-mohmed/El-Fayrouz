@@ -49,3 +49,28 @@ function getCartList() {
         }
     });
 }
+
+function GetAddedCart() {
+    $.ajax({
+        url: '/Cart/GetAddedCart',
+        type: 'GET',
+        dataType: 'html',
+        success: function (res) {
+            $('.addToCart').each((indx, Spanitag) => {
+                let recipeId = $(Spanitag).attr('data-recipeId');
+                for (var i = 0; i < res.length; i++) {
+                    if (recipeId == res[i]) {
+                        let itag = $(Spanitag).children('i')[0];
+                        $(itag).addClass("fas");
+                        $(itag).removeClass("far");
+                        break;
+                    }
+                }
+            })
+        },
+        error: function (err) {
+            console.log(err);
+        }
+
+    });
+}

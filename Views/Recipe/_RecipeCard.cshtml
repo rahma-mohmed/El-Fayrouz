@@ -12,7 +12,7 @@
     <div class="card dishcard shadow border-light mb-3 text-decoration-none rounded-3 overflow-hidden w-100" style="height:450px">
         <div class="card-body" style="background-image: url('/images/@Model.Image'); background-size:cover; background-position:top;"></div>
         <div class="card-footer bg-muted d-flex justify-content-between align-items-center">
-            <span onclick="cart.call(this)" data-recipeId=@Model.Id>
+            <span class="addToCart" onclick="cart.call(this)" data-recipeId=@Model.Id>
                 <i class="far fa-heart fs-5" style="padding-right:0px;color: #155e75;"> </i>
             </span>
             <p class="card-title fw-bold fs-6" style="color:#155e75">@Model.Name</p>

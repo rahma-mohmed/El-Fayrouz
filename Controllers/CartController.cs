@@ -86,5 +86,13 @@ namespace Fayroz.Controllers
             _dbContext.SaveChanges();
             return RedirectToAction("Index");
         }
+
+        [HttpGet]
+        public async Task<IActionResult> GetAddedCart()
+        {
+            var user = await _userManager.GetUserAsync(User);
+            var carts = _dbContext.Carts.Where(x => x.UserId == user.Id).Select(c => c.RecipeId).ToList();
+            return Ok(carts);
+        }
     }
 }
