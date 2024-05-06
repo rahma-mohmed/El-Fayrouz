@@ -1,9 +1,9 @@
 ﻿function quantity(option) {
-    let qty = $('#qty').val();
+    let qty = parseInt($('#qty').val());
     let price = parseFloat($('#price').val());
     let totalAmount = 0;
     if (option === 'inc') {
-        qty = parseInt(qty) + 1;
+        qty += 1;
     }
     else {
         qty = qty == 1 ? qty : qty - 1;
@@ -68,9 +68,5 @@ function GetAddedCart() {
                 }
             })
         },
-        error: function (err) {
-            console.log(err);
-        }
-
     });
 }

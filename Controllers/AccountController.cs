@@ -77,7 +77,6 @@ namespace Fayroz.Controllers
                     Email = register.Email,
                     Address = _dbContext.Addresses.Find(register.AddressId).CityName,
                     UserName = register.Email,
-                    
                 };
                 var result =await _userManager.CreateAsync(user,register.Password);
                 if (result.Succeeded)
@@ -103,5 +102,6 @@ namespace Fayroz.Controllers
             return View(register);
         }
         #endregion 
+
     }
 }

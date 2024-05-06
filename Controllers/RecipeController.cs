@@ -49,7 +49,6 @@ namespace Fayroz.Controllers
             var user = await _userManager.GetUserAsync(HttpContext.User);
             ViewBag.UserId = user.Id;
             ViewBag.Address = user.Address;
-            ViewBag.Price = order.Price;
             return View(order);
         }
         [HttpPost]

@@ -47,7 +47,7 @@ namespace Fayroz.Controllers
             Recipe recipe = new Recipe();
             List<SelectListItem> categories = _dbContext.Categories
                 .OrderBy(r => r.Name)
-                .Select(c => new SelectListItem { Value = c.Id.ToString(), Text = c.Name })
+                .Select(c => new SelectListItem {Value = c.Id.ToString(),Text = c.Name})
                 .AsNoTracking()
                 .ToList();
             ViewBag.Categories = categories;

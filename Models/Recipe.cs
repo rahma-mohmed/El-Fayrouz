@@ -20,7 +20,7 @@ namespace Fayroz.Models
         public IFormFile ImageFile { get; set; } = default!;
         public string? Image { get; set; }
 
-        public DateTime DateTime { get; set; }
+        public DateTime DateTime { get; }
 
         [ForeignKey("Category")]
         public int CategoryId { get; set; }
@@ -33,7 +33,7 @@ namespace Fayroz.Models
         [Range(10, 500, ErrorMessage = "Price must be between 10 and 500")]
         public decimal? Price { get; set; }
 
-    public Recipe()
+        public Recipe()
         {
             DateTime = DateTime.Now;
         }

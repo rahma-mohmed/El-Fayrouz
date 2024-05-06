@@ -47,7 +47,7 @@
                             <a class="nav-link fs-5" asp-controller="" asp-action="">About us</a>
                         </li>
 
-                        @if (User.Identity.IsAuthenticated)
+                        @if (User.Identity.IsAuthenticated && User.Identity.Name.Contains("@admin.com"))
                         {
                             <li class="nav-item">
                                 <a class="nav-link fs-5" asp-controller="AdminAction" asp-action="Index">Actions</a>
