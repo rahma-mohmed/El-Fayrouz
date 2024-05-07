@@ -1,0 +1,198 @@
+
+@media (min-width: 768px) {
+    html {
+        font-size: 20px;
+        min-height: 100%;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+}
+
+.lobster-two-bold-italic {
+    font-family: "Lobster Two", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.playfair-display {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.text-white {
+    color: #ffffff;
+}
+
+#carouselExampleSlidesOnly {
+    height: 400px;
+}
+
+.navbar {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.navbar-brand img {
+    width: 40px;
+    height: 40px;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.0rem;
+    color: #e0f2fe;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+}
+
+.navbar-nav li a::after{
+        content: '';
+        width: 0;
+        height:2px;
+        background: White;
+        display:block;
+        transition:0.2s linear;
+}
+
+.navbar-nav li a:hover::after {
+    width: 100%;
+}
+
+footer {
+   background-color: #369AEB;
+}
+
+header {
+    z-index: 1000;
+}
+
+.dishcard {
+    height: 280px;
+}
+
+#order-img {
+    height: 100px;
+}
+
+.btn {
+    text-transform: none;
+}
+
+
+.team-item {
+    box-shadow: 0 0 45px rgba(0, 0, 0, .08);
+    height: calc(100% - 38px);
+    transition: .5s;
+}
+
+    .team-item img {
+        transition: .5s;
+    }
+
+    .team-item:hover img {
+        transform: scale(1.1);
+    }
+
+    .team-item:hover {
+        height: 100%;
+    }
+
+    .team-item .btn {
+        border-radius: 38px 38px 0 0;
+    }
+
+.custom-container {
+    max-width: 1140px;
+    margin: auto;
+    padding: 20px;
+}
+
+.section-title {
+    font-family: Arial, sans-serif;
+    color: #007bff;
+    font-weight: normal;
+}
+
+.testimonial-quote {
+    color: #007bff;
+    margin-bottom: 12px;
+}
+
+.testimonial-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.testimonial-info {
+    padding-left: 12px;
+    padding-top: 10px;
+}
+
+#qty{
+    width:50px;
+    border:none;
+}
+#qty:focus{
+    outline:none;
+}
+
+#qtySection{
+    -webkit-user-select:none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.fa-plus, .fa-minus{
+    cursor:pointer;
+}
+
+.fa-heart {
+    cursor: pointer;
+}
+
+#showCartList {
+    display: none;
+    right: 10px;
+    width: 300px;
+}
+
+#CartListIcon:hover ~ #showCartList {
+    display: block;
+}
+
+.cartListImage {
+    width: 150px;
+    height: 80px;
+}
+
+#showCartList:hover {
+    display: block;
+}
+
+.cartImage {
+    width: 180px;
+    height: 100px;
+    padding-right: 10px;
+}
+
+.cartTitle {
+    width: 500px;
+}
+
+.emptycart {
+    font-size: 300px;
+}

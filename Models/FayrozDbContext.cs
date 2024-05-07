@@ -25,7 +25,13 @@ namespace Fayroz.ContextDbConfig
                 new Category { Id = 3, Name = "Biscuit" },
                 new Category { Id = 4, Name = "Sable" },
                 new Category { Id = 5, Name = "Kunafa" },
-                new Category { Id = 6, Name = "Pancake" }
+                new Category { Id = 6, Name = "Pancake" },
+                new Category { Id = 7, Name = "Pastries" },
+                new Category { Id = 8, Name = "Ice cream" },
+                new Category { Id = 9, Name = "Coffee" },
+                new Category { Id = 10, Name = "Basbousa" },
+                new Category { Id = 11, Name = "Donats" },
+                new Category { Id = 12, Name = "Other" },
             });
 
             modelBuilder.Entity<Address>().HasData(new Address[]
@@ -38,9 +44,9 @@ namespace Fayroz.ContextDbConfig
                 new Address { Id = 6, CityName = "Zarqa", DeliveryPrice = 25 },
                 new Address { Id = 7, CityName = "Kafr El-Battikh", DeliveryPrice = 25 },
                 new Address { Id = 8, CityName = "El-Zarka", DeliveryPrice = 25 },
-                new Address { Id = 9, CityName = "El-Sherbin", DeliveryPrice = 25 },
+                new Address { Id = 9, CityName = "Sherbin", DeliveryPrice = 25 },
                 new Address { Id = 10, CityName = "Azbet El-Borg", DeliveryPrice = 25 },
-                new Address { Id = 11, CityName = "El-Zarka El Hamra", DeliveryPrice = 25 },
+                new Address { Id = 11, CityName = "Meet El-Shiokh", DeliveryPrice = 25 },
                 new Address { Id = 12, CityName = "El-Nawawra", DeliveryPrice = 25 },
                 new Address { Id = 13, CityName = "El-Shata", DeliveryPrice = 25 },
                 new Address { Id = 14, CityName = "El-Tabloul", DeliveryPrice = 25 },
@@ -59,7 +65,7 @@ namespace Fayroz.ContextDbConfig
                 new Address { Id = 27, CityName = "El-Harath", DeliveryPrice = 25 },
                 new Address { Id = 28, CityName = "El-Sameil", DeliveryPrice = 25 },
                 new Address { Id = 29, CityName = "El-Qasrayn", DeliveryPrice = 25 },
-                new Address { Id = 30, CityName = "El-Mahgoubin", DeliveryPrice = 25 },
+                new Address { Id = 30, CityName = "El-Ghoabeen", DeliveryPrice = 25 },
                 new Address { Id = 31, CityName = "Kafr El-Meselha", DeliveryPrice = 25 },
                 new Address { Id = 32, CityName = "El-Athar", DeliveryPrice = 25 },
                 new Address { Id = 33, CityName = "El-Khashab", DeliveryPrice = 25 },
@@ -79,7 +85,12 @@ namespace Fayroz.ContextDbConfig
                 new Address { Id = 47, CityName = "El-Sawalha", DeliveryPrice = 25 },
                 new Address { Id = 48, CityName = "El-Matareya", DeliveryPrice = 25 },
                 new Address { Id = 49, CityName = "El-Qawafeer", DeliveryPrice = 25 },
-                new Address { Id = 50, CityName = "El-Berkit", DeliveryPrice = 25 }
+                new Address { Id = 50, CityName = "El-Berkit", DeliveryPrice = 25 },
+                new Address { Id = 51, CityName = "El-Ebidia", DeliveryPrice = 25 },
+                new Address { Id = 52, CityName = "Saad El-Balad", DeliveryPrice = 25 },
+                new Address { Id = 53, CityName = "Kafr El-Arab", DeliveryPrice = 25 },
+                new Address { Id = 54, CityName = "El-Mattari", DeliveryPrice = 30 },
+                new Address { Id = 55, CityName = "El-Senania", DeliveryPrice = 30 }
             });
 
             base.OnModelCreating(modelBuilder);

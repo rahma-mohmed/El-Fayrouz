@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets\\images\\19.jpg"
     },
     {
+      "Id": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
       "Id": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\20.jpg",
       "PackagePath": "staticwebassets\\images\\20.jpg"
     },
@@ -147,10 +151,6 @@
     {
       "Id": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\9.jpg",
       "PackagePath": "staticwebassets\\images\\9.jpg"
-    },
-    {
-      "Id": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\logo.jpg",
-      "PackagePath": "staticwebassets\\images\\logo.jpg"
     },
     {
       "Id": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\m1 (3).jpg",

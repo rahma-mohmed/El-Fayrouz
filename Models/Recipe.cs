@@ -20,7 +20,7 @@ namespace Fayroz.Models
         public IFormFile ImageFile { get; set; } = default!;
         public string? Image { get; set; }
 
-        public DateTime DateTime { get; }
+        public DateTime DateTime { get; set; }
 
         [ForeignKey("Category")]
         public int CategoryId { get; set; }

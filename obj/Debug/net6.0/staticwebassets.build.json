@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LURymzwuSTG7GEObc7JZM/stwfyggzxIarIbrl6CEQ0=",
+  "Hash": "WrPfCAu//PpaTjwtmkMXNvJ4f1JcxgxxNqGdy57xMPg=",
   "Source": "Fayroz",
   "BasePath": "_content/Fayroz",
   "Mode": "Default",
@@ -262,6 +262,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\19.jpg"
+    },
+    {
+      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\2.jpg",
+      "SourceId": "Fayroz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
+      "BasePath": "_content/Fayroz",
+      "RelativePath": "images/2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2.jpg"
     },
     {
       "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\20.jpg",
@@ -737,25 +756,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\9.jpg"
-    },
-    {
-      "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\logo.jpg",
-      "SourceId": "Fayroz",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\",
-      "BasePath": "_content/Fayroz",
-      "RelativePath": "images/logo.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\logo.jpg"
     },
     {
       "Identity": "C:\\El-Fayroz\\El-Fayrouz\\wwwroot\\images\\m1 (3).jpg",

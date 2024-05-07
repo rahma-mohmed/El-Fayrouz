@@ -93,7 +93,7 @@ namespace Fayroz.Migrations
                         new
                         {
                             Id = 9,
-                            CityName = "El-Sherbin",
+                            CityName = "Sherbin",
                             DeliveryPrice = 25
                         },
                         new
@@ -105,7 +105,7 @@ namespace Fayroz.Migrations
                         new
                         {
                             Id = 11,
-                            CityName = "El-Zarka El Hamra",
+                            CityName = "Meet El-Shiokh",
                             DeliveryPrice = 25
                         },
                         new
@@ -219,7 +219,7 @@ namespace Fayroz.Migrations
                         new
                         {
                             Id = 30,
-                            CityName = "El-Mahgoubin",
+                            CityName = "El-Ghoabeen",
                             DeliveryPrice = 25
                         },
                         new
@@ -341,6 +341,36 @@ namespace Fayroz.Migrations
                             Id = 50,
                             CityName = "El-Berkit",
                             DeliveryPrice = 25
+                        },
+                        new
+                        {
+                            Id = 51,
+                            CityName = "El-Ebidia",
+                            DeliveryPrice = 25
+                        },
+                        new
+                        {
+                            Id = 52,
+                            CityName = "Saad El-Balad",
+                            DeliveryPrice = 25
+                        },
+                        new
+                        {
+                            Id = 53,
+                            CityName = "Kafr El-Arab",
+                            DeliveryPrice = 25
+                        },
+                        new
+                        {
+                            Id = 54,
+                            CityName = "El-Mattari",
+                            DeliveryPrice = 30
+                        },
+                        new
+                        {
+                            Id = 55,
+                            CityName = "El-Senania",
+                            DeliveryPrice = 30
                         });
                 });
 
@@ -421,6 +451,36 @@ namespace Fayroz.Migrations
                         {
                             Id = 6,
                             Name = "Pancake"
+                        },
+                        new
+                        {
+                            Id = 7,
+                            Name = "Pastries"
+                        },
+                        new
+                        {
+                            Id = 8,
+                            Name = "Ice cream"
+                        },
+                        new
+                        {
+                            Id = 9,
+                            Name = "Coffee"
+                        },
+                        new
+                        {
+                            Id = 10,
+                            Name = "Basbousa"
+                        },
+                        new
+                        {
+                            Id = 11,
+                            Name = "Donats"
+                        },
+                        new
+                        {
+                            Id = 12,
+                            Name = "Other"
                         });
                 });
 

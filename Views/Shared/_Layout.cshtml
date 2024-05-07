@@ -58,13 +58,13 @@
                     <ul class="navbar-nav flex-grow-3">
                         @if (User.Identity.IsAuthenticated)
                         {
-                            <li>
-                                <span id="CartListIcon"><i class="fas fa-shopping-cart mx-2 fs-5 pt-2" style="color: #cffafe;"> </i> </span>
+                            <li class="nav-item">
+                                <i id="CartListIcon" class="fas fa-shopping-cart mx-2 fs-5 pt-2" style="color: #cffafe;"> </i>
                                 <div id="showCartList" class="position-absolute shadow-lg rounded bg-white p-2">
                                 </div>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link fs-5" asp-area="" asp-controller="Home" asp-action="Index">
+                                <a class="nav-link fs-5" asp-area="" asp-route-id="" asp-controller="Account" asp-action="Edit">
                                     <i class="fas fa-solid fa-user"></i>
                                 </a>
 
@@ -76,7 +76,7 @@
                         else
                         {
                             <li class="nav-item">
-                                <a class="nav-link  fs-5" asp-area="" asp-controller="Account" asp-action="Register">SignUp</a>
+                                <a class="nav-link  fs-5" asp-area="" xasp-controller="Account" asp-action="Register">SignUp</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link  fs-5" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
@@ -115,9 +115,12 @@
                         </div>
 
                         <div class="mb-2">
-                            <span><i class="fab fa-facebook fs-5" style="color: #155e75;"></i></span>
-                            <span class="fs-6 mx-1"> Facebook</span>
+                            <a href="https://www.facebook.com/hlwany.alfayrouz" target="_blank" class="text-white" style="text-decoration:none">
+                                <span><i class="fab fa-facebook fs-5" style="color: #155e75;"></i></span>
+                                <span class="fs-6 mx-1">Facebook</span>
+                            </a>
                         </div>
+
 
                         <div class="mb-2">
                             <span><i class="fas fa-envelope fs-5" style="color: #155e75;"></i></span>
@@ -126,7 +129,14 @@
                     </div>
                     <div class=" col-sm-4 col-md-4 col-lg-4 col-xl-4">
                         <h4>Address</h4>
-                        <pre>Faraskur - Al Mahatta Square</pre>
+                        <a href="https://www.bing.com/maps?osid=653fa03a-10f3-405b-a8d5-6630fa91a95f&cp=31.33093~31.713045&lvl=16&pi=0&v=2&sV=2&form=S00027" target="_blank" style="text-decoration:none" class="fs-6 mx-1 text-white">
+                            <pre><i class="fas fa-solid fa-loc"></i> Faraskur - Al Mahatta Square</pre>
+                        </a>
+                        <a href="tel:0573444411" class=" fs-6 mx-1 text-white" style="text-decoration:none">
+                            <span>Call us <i class="fas fa-solid fa-phone"></span></i>
+                            <span>057 3444411</span>
+                        </a>
+
                     </div>
                 </div>
                 <div>
