@@ -17,22 +17,22 @@
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/jquery/dist/jquery.js"></script>
-    <script>
-        $(function () {
-            var availableTags = [
-                "Strawberry cake",
-                "Salty pie",
-                "Sweet pie",
-                "Biscuit",
-                "Sable",
-                "Kunafa cake",
-                "Lotus pancake",
-                "Kunafa With Mango",
-                "Kunafa mix fresh fruit",
-
-            ];
-            $("#tags").autocomplete({
-                source: availableTags
-            });
+<script>
+    $(function () {
+        $("#tags").autocomplete({
+            source: function (request, response) {
+                $.ajax({
+                    url: "/Recipe/GetRecipeNames", 
+                    dataType: "html",
+                    data: {
+                        term: request.term
+                    },
+                    success: function (data) {
+                        response(data.split(',')); 
+                    }
+                });
+            },
+            minLength: 1 
         });
-    </script>
+    });
+</script>

@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\El-Fayroz\\El-Fayrouz\\",
+  "WorkspaceRootPath": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\el-fayroz\\el-fayrouz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\users\\3ml4ever\\desktop\\el-fayrouz\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\el-fayroz\\el-fayrouz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\users\\3ml4ever\\desktop\\el-fayrouz\\views\\recipe\\_sidemenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:views\\recipe\\_sidemenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\users\\3ml4ever\\desktop\\el-fayrouz\\views\\recipe\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:views\\recipe\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\users\\3ml4ever\\desktop\\el-fayrouz\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\users\\3ml4ever\\desktop\\el-fayrouz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|c:\\el-fayroz\\el-fayrouz\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87421C63-012E-4D32-A04F-060D57474FD7}|Fayroz.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +30,69 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\El-Fayroz\\El-Fayrouz\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\El-Fayroz\\El-Fayrouz\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAASAAAA",
+              "DocumentIndex": 3,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "Models\\Recipe.cs",
+              "ToolTip": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Models\\Recipe.cs",
+              "RelativeToolTip": "Models\\Recipe.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T15:50:35.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T01:16:12.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Views\\Recipe\\Search.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recipe\\Search.cshtml",
+              "ToolTip": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Views\\Recipe\\Search.cshtml",
+              "RelativeToolTip": "Views\\Recipe\\Search.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T01:14:08.539Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\El-Fayroz\\El-Fayrouz\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\El-Fayroz\\El-Fayrouz\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-07T15:15:36.438Z",
+              "Title": "_SideMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Views\\Recipe\\_SideMenu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recipe\\_SideMenu.cshtml",
+              "ToolTip": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Views\\Recipe\\_SideMenu.cshtml",
+              "RelativeToolTip": "Views\\Recipe\\_SideMenu.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T01:10:09.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\El-Fayroz\\El-Fayrouz\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\El-Fayroz\\El-Fayrouz\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAEsAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T15:02:49.734Z",
+              "Title": "RecipeController.cs",
+              "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Controllers\\RecipeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecipeController.cs",
+              "ToolTip": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\Controllers\\RecipeController.cs",
+              "RelativeToolTip": "Controllers\\RecipeController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:35:29.098Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\3ML4Ever\\Desktop\\El-Fayrouz\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T15:15:36.438Z"
             }
           ]
         }

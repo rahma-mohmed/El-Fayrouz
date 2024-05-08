@@ -33,6 +33,15 @@ namespace Fayroz.Controllers
             return View(recipesByCategory);
         }
 
+        public IActionResult Search_Menu(string category)
+        {
+            var recipes = _dbContext.Recipes.Where(r => r.Category.Name.Contains(category)).ToList();
+            ViewBag.Recipe = recipes;
+            List<Category> Categories = _dbContext.Categories.ToList();
+            ViewBag.Categories = Categories;
+            return View("Search");
+        }
+
         public IActionResult Search(string recipe)
         {
             var recipes = _dbContext.Recipes.Where(r => r.Name.Contains(recipe)).ToList();
@@ -41,6 +50,7 @@ namespace Fayroz.Controllers
             ViewBag.Categories = Categories;
             return View();
         }
+
         [Authorize]
         public async Task<IActionResult> Order(int id) {
             Recipe order = _dbContext.Recipes.FirstOrDefault(x => x.Id == id);
@@ -63,6 +73,19 @@ namespace Fayroz.Controllers
                 return RedirectToAction("Index");
             }
             return RedirectToAction("Order","Recipe",order.RecipeId);
+        }
+
+        [HttpGet]
+        public IActionResult GetRecipeNames(string term)
+        {
+            var recipeNames = _dbContext.Recipes
+                .Where(r => r.Name.Contains(term))
+                .Select(r => r.Name)
+                .ToList();
+
+            var recipeNamesString = string.Join(",", recipeNames);
+
+            return Content(recipeNamesString);
         }
     }
 }
