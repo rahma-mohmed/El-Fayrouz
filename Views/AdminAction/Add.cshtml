@@ -12,11 +12,19 @@
         position: relative;
         cursor: pointer;
     }
-    .form-check-input:checked {
-        background-color: #007bff;
-        border-color: #007bff;
-    }
+
+        .form-check-input:checked {
+            background-color: #007bff;
+            border-color: #007bff;
+        }
+
+    .cover-preview {
+        height: 600px; /* Set the desired fixed height */
+        object-fit: cover; /* Maintain aspect ratio */
+/*         object-position: center; /* Center the image */
+ */    }
 </style>
+
 <form asp-action="Add" method="post" enctype="multipart/form-data">
     <div class="row">
         <div class="col-md-6">
@@ -36,7 +44,6 @@
                 <span asp-validation-for="CategoryId" class="text-danger"></span>
             </div>
 
-
             <div class="form-group">
                 <label asp-for="Description" class="form-label mt-4"></label>
                 <textarea asp-for="Description" class="form-control" placeholder="Description"></textarea>
@@ -55,14 +62,13 @@
                 <span asp-validation-for="Price" class="text-danger"></span>
             </div>
 
-
             <div class="form-group">
                 <label asp-for="isSpecial" class="form-label mt-4"></label>
                 <input type="checkbox" id="isSpecialCheckbox" asp-for="isSpecial" class="form-check-input" />
             </div>
         </div>
         <div class="col-md-6 d-flex justify-content-center pt-4 overflow-hidden">
-            <img class="cover-preview d-none h-100" alt="Item" />
+            <img class="cover-preview d-none" alt="Item" />
         </div>
     </div>
 
