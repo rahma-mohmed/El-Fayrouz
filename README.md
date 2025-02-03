@@ -28,7 +28,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/rahma-mohmed/Al-Fayrouz.git
+   git clone https://github.com/rahma-mohmed/El-Fayrouz-MVC-Project
    cd Al-Fayrouz
 ## 📜 Usage  
 - Users can browse products, add them to the cart, and place orders.
