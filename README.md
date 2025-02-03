@@ -1,7 +1,6 @@
 # 🏛 Al-Fayrouz Project
 
 **Live Demo:** [Al-Fayrouz](http://al-fayroz.runasp.net/)  
-**Author:** [Rahma Mohmed Aboshaheen](https://www.linkedin.com/in/rahma-aboshaheen-059868289/)  
 
 ## 📌 About the Project  
 Al-Fayrouz is a web-based **e-commerce platform** built using **ASP.NET Core MVC**. It allows users to browse, search, and purchase products efficiently while providing an intuitive admin panel for managing products, orders, and users.  
@@ -34,3 +33,7 @@ Follow these steps to set up the project locally:
 - Users can browse products, add them to the cart, and place orders.
 - Admins can manage products, categories, orders, and users through the admin panel.
 
+## 📩 Contact  
+For any inquiries or issues, feel free to contact me:
+📧 rahmamohmed1422003@gmail.com
+🔗 LinkedIn: [Rahma Mohmed Aboshaheen](https://www.linkedin.com/in/rahma-aboshaheen-059868289/) 
