@@ -35,5 +35,5 @@ Follow these steps to set up the project locally:
 
 ## 📩 Contact  
 For any inquiries or issues, feel free to contact me:
-📧 rahmamohmed1422003@gmail.com
-🔗 LinkedIn: [Rahma Mohmed Aboshaheen](https://www.linkedin.com/in/rahma-aboshaheen-059868289/) 
+- 📧 rahmamohmed1422003@gmail.com
+- 🔗 LinkedIn: [Rahma Mohmed Aboshaheen](https://www.linkedin.com/in/rahma-aboshaheen-059868289/) 
