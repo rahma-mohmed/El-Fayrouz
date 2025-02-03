@@ -14,7 +14,7 @@ Al-Fayrouz is a web-based **e-commerce platform** built using **ASP.NET Core MVC
 - 🎨 **Responsive UI** – Clean and modern UI using **Bootstrap**.  
 
 ## 🛠 Technologies Used  
-- **.NET 8 (ASP.NET Core MVC)**
+- **.NET 6 (ASP.NET Core MVC)**
 - **Entity Framework Core**
 - **SQL Server**
 - **Microsoft Identity for Authentication**
